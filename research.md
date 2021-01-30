@@ -1,3 +1,8 @@
+---
+layout: page
+title: Research
+---
+
 # Methodological Research 
 
 <img src="assets/img/method_projects.jpg" >
