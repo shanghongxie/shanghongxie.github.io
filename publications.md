@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 ---
-
+## Published
 *: Joint first author, equal contribution
 
 1. **Shanghong Xie**, Donglin Zeng, and Yuanjia Wang. [Integrative Network Learning for Multi-modality
@@ -25,14 +25,19 @@ Biomarker Data.](https://github.com/shanghongxie/shanghongxie/blob/main/Publicat
 
 7. Michael Avissar<sup>&#42;</sup>, **Shanghong Xie**<sup>&#42;</sup>, Blair Vail, Javier Lopez Calderon, Yuanjia Wang, and Daniel Javitt. [Meta-analysis of Mismatch Negativity to Simple versus Complex Deviants in Schizophrenia.](https://github.com/shanghongxie/shanghongxie/blob/main/Publications/Meta_Schizophrenia_2018.pdf) _Schizophrenia Research_ 19 (2018) 25-34.
 
-8. **Shanghong Xie**, Erin Mcdonnell, and Yuanjia Wang. Conditional Gaussian Graphical Model for Estimating Personalized Disease Symptom Networks. 2020+. Submitted
+## Submitted
+
+1. **Shanghong Xie**, Erin Mcdonnell, and Yuanjia Wang. Conditional Gaussian Graphical Model for Estimating Personalized Disease Symptom Networks. 2020+. Submitted
    - An earlier version won Joint Statistical Meetings (JSM) 2020 Mental Health Statistics Section Student Paper Award  
  
  
-9. **Shanghong Xie**, Thaddeus Tarpey, Eva Petkova, and R. Todd Ogden. Multiple Domain and Multiple Kernel Outcome-weighted Learning for Estimating Individualized Treatment Regimes. 2020+. Submitted
+2. **Shanghong Xie**, Thaddeus Tarpey, Eva Petkova, and R. Todd Ogden. Multiple Domain and Multiple Kernel Outcome-weighted Learning for Estimating Individualized Treatment Regimes. 2020+. Submitted
 
-10. **Shanghong Xie**, Donglin Zeng, and Yuanjia Wang. Identifying Intervenable Causal Pathways Using High-dimensional Temporal Biomarkers. 2020+. In Preparation
 
-11. Erin Mcdonnell, **Shanghong Xie**, Karen Marder, and Yuanjia Wang. Smooth Time-varying Gaussian Graphical Models to Study Disease Progression. 2020+. In Preparation
+## In Preparation
 
-12. **Shanghong Xie** and R. Todd Ogden. Functional Support Vector Machine. 2020+. In Preparation
+1. **Shanghong Xie**, Donglin Zeng, and Yuanjia Wang. Identifying Intervenable Causal Pathways Using High-dimensional Temporal Biomarkers. 2020+. In Preparation
+
+2. Erin Mcdonnell, **Shanghong Xie**, Karen Marder, and Yuanjia Wang. Smooth Time-varying Gaussian Graphical Models to Study Disease Progression. 2020+. In Preparation
+
+3. **Shanghong Xie** and R. Todd Ogden. Functional Support Vector Machine. 2020+. In Preparation
