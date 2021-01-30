@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: Publications
 ---
 
 *: Joint first author, equal contribution
