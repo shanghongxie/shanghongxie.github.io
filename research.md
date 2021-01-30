@@ -10,5 +10,5 @@ title: Research
 
 
 # Collaborative Research and Data Science
-<img src="/assets/img/applied_projects.png">
+<img src="/assets/img/applied_projects.png" width = "600" height = "360">
 
