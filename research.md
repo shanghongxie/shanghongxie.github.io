@@ -3,6 +3,8 @@ layout: page
 title: 
 ---
 
+
+
 # Methodological Research 
 
 <img src="assets/img/method_projects.png" >
