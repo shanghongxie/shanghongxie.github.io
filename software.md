@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Software
+title: 
 ---
 
 # R package ‘APML0’
