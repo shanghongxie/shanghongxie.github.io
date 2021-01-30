@@ -6,7 +6,7 @@ title: Research
 
 
 ## Methodological Research 
-<img src="/assets/img/method_projects.png" width = "950" height = "500">
+<img src="/assets/img/method_projects.png" width = "1000" height = "500">
 
 
 ## Collaborative Research and Data Science
