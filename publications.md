@@ -29,7 +29,7 @@ Biomarker Data.](https://github.com/shanghongxie/shanghongxie/blob/main/Publicat
 
 1. **Shanghong Xie**, Erin Mcdonnell, and Yuanjia Wang. Conditional Gaussian Graphical Model for Estimating Personalized Disease Symptom Networks. 2020+. Submitted
    - An earlier version won Joint Statistical Meetings (JSM) 2020 Mental Health Statistics Section Student Paper Award  
- 
+  <br/> 
  
 2. **Shanghong Xie**, Thaddeus Tarpey, Eva Petkova, and R. Todd Ogden. Multiple Domain and Multiple Kernel Outcome-weighted Learning for Estimating Individualized Treatment Regimes. 2020+. Submitted
 
