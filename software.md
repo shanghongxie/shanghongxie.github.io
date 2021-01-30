@@ -16,6 +16,6 @@ title: Software
   - [Available on GitHub](https://github.com/shanghongxie/Covariate-adjusted-network)
   
 ## R package ‘INL’
-  - Integrative network learning for multi-modaility data  
+  - Integrative network learning for multi-modality data  
   - Most intensive computation codes written in C++
   - [Available on GitHub](https://github.com/shanghongxie/INL)
