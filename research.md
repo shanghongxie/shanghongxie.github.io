@@ -9,4 +9,4 @@ title: Research
 
 # Collaborative Research and Data Science
 
-<img src="assets/img/applied_projects.jpg" width = "600" height = "360">
+<img src="assets/img/applied_projects.jpg">
