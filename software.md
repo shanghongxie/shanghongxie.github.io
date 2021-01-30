@@ -3,6 +3,8 @@ layout: page
 title: 
 ---
 
+
+
 # R package ‘APML0’
   - Augmented and penalized minimization method for regularized linear, logistic, and Cox models with l0 penalty
   - Most intensive computation codes written in C++
