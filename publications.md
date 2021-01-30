@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Publication and Preprints
+title: 
 ---
-
+** Publications and Preprints **
 *: Joint first author, equal contribution
 
 1. **Shanghong Xie**, Donglin Zeng, and Yuanjia Wang. [Integrative Network Learning for Multi-modality
