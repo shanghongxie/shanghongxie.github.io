@@ -3,3 +3,14 @@
 My methodological research interests lie in the broad area of machine learning, network analysis of biomarkers, precision medicine, functional data analysis, mediation analysis with genetic and neuroimaging biomarkers, causal inference, and variable selection, with applications to public health fields. 
 
 My applied research experiences include clinical trial designs and performing a variety of statistical analysis with clinicians and collaborators in the New York State Psychiatric Institute (NYSPI), Columbia University Vagelos College of Physicians and Surgeons, and School of Social Work at Columbia University. I also have collaborated with neuroimaging researchers at the University College London Institute of Neurology. 
+
+## Contact
+Department of Biostatistics
+
+Mailman School of Public Health
+
+Columbia University
+
+New York, NY
+
+Email: sx2168@cumc.columbia.edu
