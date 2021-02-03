@@ -5,9 +5,12 @@ My methodological research interests lie in the broad area of machine learning, 
 My applied research experiences include clinical trial designs and performing a variety of statistical analysis with clinicians and collaborators in the New York State Psychiatric Institute (NYSPI), Columbia University Vagelos College of Physicians and Surgeons, and School of Social Work at Columbia University. I also have collaborated with neuroimaging researchers at the University College London Institute of Neurology. 
 
 ## Contact
+
+Email: 
+sx2168@cumc.columbia.edu
+
+Address:
 Department of Biostatistics<br/> 
 Mailman School of Public Health<br/> 
 Columbia University<br/> 
-New York, NY
-
-Email: sx2168@cumc.columbia.edu
+New York, NY, 10032
