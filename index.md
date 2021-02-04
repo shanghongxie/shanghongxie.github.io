@@ -6,12 +6,10 @@ My applied research experiences include clinical trial designs and performing a 
 
 ## Contact
 
-Email: 
-
+Email: <br/> 
 sx2168@cumc.columbia.edu
 
-Address:
-
+Address: <br/> 
 Department of Biostatistics<br/> 
 Mailman School of Public Health<br/> 
 Columbia University<br/> 
