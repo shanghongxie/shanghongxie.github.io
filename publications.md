@@ -17,7 +17,8 @@ Biomarker Data.](https://github.com/shanghongxie/shanghongxie/blob/main/Publicat
  
 4. Qinxia Wang, **Shanghong Xie**, Yuanjia Wang, and Donglin Zeng. [Survival-Convolution Models for Predicting COVID-19 Cases and Assessing Effects of Mitigation Strategies.](https://github.com/shanghongxie/shanghongxie/blob/main/Publications/COVID_FIPH_2020.pdf) *Frontiers in Public Health* 8 (2020) 325. 
    - Our model is used by the Center of Disease Control and Prevention (CDC) for COVID-19 Ensemble Forecast [[our forecast website](https://github.com/COVID19BIOSTAT/covid19_prediction)][[CDC ensemble forecast website](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/forecasting-us.html)] 
-      
+       <br\>
+       
 5. Xiang Li<sup>&#42;</sup>, **Shanghong Xie**<sup>&#42;</sup>, Peter McColgan, Sarah J. Tabrizi,  Rachael I. Scahill, Donglin Zeng, and Yuanjia Wang. [Learning Subject-Specific Directed Acyclic Graphs with Mixed Effects Structural Equation Models from Observational Data.](https://github.com/shanghongxie/shanghongxie/blob/main/Publications/DAG_FIG_2018.pdf) _Frontiers in Genetics_ 9 (2018) 430. 
 
 6. Xiang Li, **Shanghong Xie**, Donglin Zeng, and Yuanjia Wang. [Efficient l0-norm Feature Selection Based on Augmented and Penalized Minimization.](https://github.com/shanghongxie/shanghongxie/blob/main/Publications/APML0_SIM_2018.pdf) *Statistics in Medicine* 37 (3) (2018) 473-486. [[code](https://cran.r-project.org/web/packages/APML0/index.html)]
@@ -28,7 +29,8 @@ Biomarker Data.](https://github.com/shanghongxie/shanghongxie/blob/main/Publicat
 
 1. **Shanghong Xie**, Erin Mcdonnell, and Yuanjia Wang. Conditional Gaussian Graphical Model for Estimating Personalized Disease Symptom Networks. 2020+. Submitted
    - An earlier version won Joint Statistical Meetings (JSM) 2020 Mental Health Statistics Section Student Paper Award  
- 
+  <br\>
+  
 2. **Shanghong Xie**, Thaddeus Tarpey, Eva Petkova, and R. Todd Ogden. Multiple Domain and Multiple Kernel Outcome-weighted Learning for Estimating Individualized Treatment Regimes. 2020+. Submitted
 
 
@@ -38,5 +40,6 @@ Biomarker Data.](https://github.com/shanghongxie/shanghongxie/blob/main/Publicat
 
 2. Erin Mcdonnell, **Shanghong Xie**, Karen Marder, and Yuanjia Wang. Dynamic Gaussian Graphical Models to Study Time-Varying Clinical Symptom and Imaging Networks. 2020+. In Preparation
    - An earlier version won Joint Statistical Meetings (JSM) 2021 Statistics in Imaging Section Student Paper Award  
-
+  <br\>
+  
 3. **Shanghong Xie** and R. Todd Ogden. Functional Support Vector Machine. 2020+. In Preparation
