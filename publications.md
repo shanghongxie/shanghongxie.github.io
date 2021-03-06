@@ -11,8 +11,8 @@ Biomarker Data.](https://github.com/shanghongxie/shanghongxie/blob/main/Publicat
 Jill Goldman, **Shanghong Xie**, Dina Green, Ali Naini, Mahesh M. Mansukhani, and Karen Marder. [Predictive Testing for Neurodegenerative Diseases in the Age of Next-generation Sequencing.](https://onlinelibrary.wiley.com/doi/epdf/10.1002/jgc4.1342) *Journal of Genetic Counseling* (2020). In Press. 
 
 **Shanghong Xie**, Xiang Li, Peter McColgan, Rachael I. Scahill, Donglin Zeng, and Yuanjia Wang. [Identifying Disease-associated Biomarker Network Features Through Conditional Graphical Model.](https://github.com/shanghongxie/shanghongxie/blob/main/Publications/Identifying_Biometrics_2020.pdf) *Biometrics* 76 (3)(2020) 995-1006. [[code](https://github.com/shanghongxie/Covariate-adjusted-network)]   
-  <li> - [Cover story of *Biometrics* September 2020 issue](https://github.com/shanghongxie/shanghongxie.github.io/blob/main/Publications/cover_biometrics.pdf) <li> 
-  <li> - An earlier version won the International Conference on Health Policy Statistics (ICHPS) 2018 Student Travel Award <li> 
+  <li> [Cover story of *Biometrics* September 2020 issue](https://github.com/shanghongxie/shanghongxie.github.io/blob/main/Publications/cover_biometrics.pdf) <li> 
+  <li> An earlier version won the International Conference on Health Policy Statistics (ICHPS) 2018 Student Travel Award <li> 
 
  
 Qinxia Wang, **Shanghong Xie**, Yuanjia Wang, and Donglin Zeng. [Survival-Convolution Models for Predicting COVID-19 Cases and Assessing Effects of Mitigation Strategies.](https://github.com/shanghongxie/shanghongxie/blob/main/Publications/COVID_FIPH_2020.pdf) *Frontiers in Public Health* 8 (2020) 325. 
