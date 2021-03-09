@@ -34,7 +34,7 @@ Biomarker Data.](https://github.com/shanghongxie/shanghongxie/blob/main/Publicat
 2. **Shanghong Xie**, Thaddeus Tarpey, Eva Petkova, and R. Todd Ogden. Multiple Domain and Multiple Kernel Outcome-weighted Learning for Estimating Individualized Treatment Regimes. 2020+. 
 
 
-## Working Paper
+## Working Papers
 
 1. **Shanghong Xie**, Donglin Zeng, and Yuanjia Wang. Identifying Intervenable Causal Pathways Using High-dimensional Temporal Biomarkers. 2020+. 
 
