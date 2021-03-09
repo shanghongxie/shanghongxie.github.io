@@ -16,7 +16,7 @@ Biomarker Data.](https://github.com/shanghongxie/shanghongxie/blob/main/Publicat
    <br> <br>
  
 4. Qinxia Wang, **Shanghong Xie**, Yuanjia Wang, and Donglin Zeng. [Survival-Convolution Models for Predicting COVID-19 Cases and Assessing Effects of Mitigation Strategies.](https://github.com/shanghongxie/shanghongxie/blob/main/Publications/COVID_FIPH_2020.pdf) *Frontiers in Public Health* 8 (2020) 325. 
-   - Our model is used by the Center of Disease Control and Prevention (CDC) for COVID-19 Ensemble Forecast [[our forecast website](https://github.com/COVID19BIOSTAT/covid19_prediction)][[CDC ensemble forecast website](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/forecasting-us.html)] 
+   - Our model is used by U.S. Center of Disease Control and Prevention (CDC) for COVID-19 Ensemble Forecast [[our forecast website](https://github.com/COVID19BIOSTAT/covid19_prediction)][[CDC ensemble forecast website](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/forecasting-us.html)] 
        <br>
        
 5. Xiang Li<sup>&#42;</sup>, **Shanghong Xie**<sup>&#42;</sup>, Peter McColgan, Sarah J. Tabrizi,  Rachael I. Scahill, Donglin Zeng, and Yuanjia Wang. [Learning Subject-Specific Directed Acyclic Graphs with Mixed Effects Structural Equation Models from Observational Data.](https://github.com/shanghongxie/shanghongxie/blob/main/Publications/DAG_FIG_2018.pdf) _Frontiers in Genetics_ 9 (2018) 430. 
