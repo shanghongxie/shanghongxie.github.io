@@ -38,7 +38,7 @@ Biomarker Data.](https://github.com/shanghongxie/shanghongxie/blob/main/Publicat
 10. **Shanghong Xie**, Donglin Zeng, and Yuanjia Wang. Identifying Intervenable Causal Pathways Using High-dimensional Temporal Biomarkers. 2020+. 
 
 11. Erin Mcdonnell, **Shanghong Xie**, Karen Marder, and Yuanjia Wang. Dynamic Gaussian Graphical Models to Study Time-Varying Clinical Symptom and Imaging Networks. 2020+. 
-   - An earlier version won Joint Statistical Meetings (JSM) 2021 Statistics in Imaging Section Student Paper Award  
+    - An earlier version won Joint Statistical Meetings (JSM) 2021 Statistics in Imaging Section Student Paper Award  
   <br>
   
 12. **Shanghong Xie** and R. Todd Ogden. Functional Support Vector Machine. 2020+. 
