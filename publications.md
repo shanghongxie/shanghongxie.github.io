@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 ---
-## Published
+## Peer-Reviewed Journal Publications
 *: Joint first author, equal contribution
 
 1. **Shanghong Xie**, Donglin Zeng, and Yuanjia Wang. [Integrative Network Learning for Multi-modality
