@@ -11,7 +11,6 @@ Biomarker Data.](https://github.com/shanghongxie/shanghongxie/blob/main/Publicat
 2. **Shanghong Xie**, Xiang Li, Peter McColgan, Rachael I. Scahill, Donglin Zeng, and Yuanjia Wang. [Identifying Disease-associated Biomarker Network Features Through Conditional Graphical Model.](https://github.com/shanghongxie/shanghongxie/blob/main/Publications/Identifying_Biometrics_2020.pdf) *Biometrics* 76 (3)(2020) 995-1006. [[code](https://github.com/shanghongxie/Covariate-adjusted-network)]  
    - [Cover story of *Biometrics* September 2020 issue](https://github.com/shanghongxie/shanghongxie/blob/main/Publications/cover_biometrics.pdf)
    - An earlier version won the International Conference on Health Policy Statistics (ICHPS) 2018 Student Travel Award 
-   <br> 
  
 3. Qinxia Wang, **Shanghong Xie**, Yuanjia Wang, and Donglin Zeng. [Survival-Convolution Models for Predicting COVID-19 Cases and Assessing Effects of Mitigation Strategies.](https://github.com/shanghongxie/shanghongxie/blob/main/Publications/COVID_FIPH_2020.pdf) *Frontiers in Public Health* 8 (2020) 325. 
    - Our model is used by U.S. Center of Disease Control and Prevention (CDC) for COVID-19 Ensemble Forecast [[our forecast website](https://github.com/COVID19BIOSTAT/covid19_prediction)][[CDC ensemble forecast website](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/forecasting-us.html)] 
