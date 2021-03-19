@@ -5,7 +5,7 @@ title: Publications
 *: Joint first author, equal contribution
 
 1. **Shanghong Xie**, Donglin Zeng, and Yuanjia Wang. [Integrative Network Learning for Multi-modality
-Biomarker Data.](https://github.com/shanghongxie/shanghongxie/blob/main/Publications/INL_AOAS_2020.pdf) *Annals of Applied Statistics* (2020). In Press. [[code](https://github.com/shanghongxie/INL)]
+Biomarker Data.](https://github.com/shanghongxie/shanghongxie/blob/main/Publications/INL_AOAS_2021.pdf) *Annals of Applied Statistics* 15 (1)(2020) 64-87. [[code](https://github.com/shanghongxie/INL)]
 
 2. Jill Goldman, **Shanghong Xie**, Dina Green, Ali Naini, Mahesh M. Mansukhani, and Karen Marder. [Predictive Testing for Neurodegenerative Diseases in the Age of Next-generation Sequencing.](https://onlinelibrary.wiley.com/doi/epdf/10.1002/jgc4.1342) *Journal of Genetic Counseling* (2020). In Press. 
 
