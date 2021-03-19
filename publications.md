@@ -23,8 +23,10 @@ Biomarker Data.](https://github.com/shanghongxie/shanghongxie/blob/main/Publicat
 
 
 
-
+```
 ### Application Publications
+```
+
 *: Joint first author, equal contribution
 {:start="6"}
 6. Jill Goldman, **Shanghong Xie**, Dina Green, Ali Naini, Mahesh M. Mansukhani, and Karen Marder. [Predictive Testing for Neurodegenerative Diseases in the Age of Next-generation Sequencing.](https://onlinelibrary.wiley.com/doi/epdf/10.1002/jgc4.1342) *Journal of Genetic Counseling* (2020). In Press. 
