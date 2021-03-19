@@ -27,7 +27,7 @@ Biomarker Data.](https://github.com/shanghongxie/shanghongxie/blob/main/Publicat
 
 *: Joint first author, equal contribution
 
-1. Jill Goldman, **Shanghong Xie**, Dina Green, Ali Naini, Mahesh M. Mansukhani, and Karen Marder. [Predictive Testing for Neurodegenerative Diseases in the Age of Next-generation Sequencing.](https://onlinelibrary.wiley.com/doi/epdf/10.1002/jgc4.1342) *Journal of Genetic Counseling* (2020). In Press. 
+6. Jill Goldman, **Shanghong Xie**, Dina Green, Ali Naini, Mahesh M. Mansukhani, and Karen Marder. [Predictive Testing for Neurodegenerative Diseases in the Age of Next-generation Sequencing.](https://onlinelibrary.wiley.com/doi/epdf/10.1002/jgc4.1342) *Journal of Genetic Counseling* (2020). In Press. 
 
-2. Michael Avissar<sup>&#42;</sup>, **Shanghong Xie**<sup>&#42;</sup>, Blair Vail, Javier Lopez Calderon, Yuanjia Wang, and Daniel Javitt. [Meta-analysis of Mismatch Negativity to Simple versus Complex Deviants in Schizophrenia.](https://github.com/shanghongxie/shanghongxie/blob/main/Publications/Meta_Schizophrenia_2018.pdf) _Schizophrenia Research_ 19 (2018) 25-34.
+6. Michael Avissar<sup>&#42;</sup>, **Shanghong Xie**<sup>&#42;</sup>, Blair Vail, Javier Lopez Calderon, Yuanjia Wang, and Daniel Javitt. [Meta-analysis of Mismatch Negativity to Simple versus Complex Deviants in Schizophrenia.](https://github.com/shanghongxie/shanghongxie/blob/main/Publications/Meta_Schizophrenia_2018.pdf) _Schizophrenia Research_ 19 (2018) 25-34.
 
