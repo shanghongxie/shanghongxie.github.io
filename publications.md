@@ -12,7 +12,7 @@ Biomarker Data.](https://github.com/shanghongxie/shanghongxie/blob/main/Publicat
    * [Cover story of *Biometrics* September 2020 issue](https://github.com/shanghongxie/shanghongxie/blob/main/Publications/cover_biometrics.pdf)
    * An earlier version won the International Conference on Health Policy Statistics (ICHPS) 2018 Student Travel Award 
  
-3. Qinxia Wang, **Shanghong Xie**, Yuanjia Wang, and Donglin Zeng. [Survival-Convolution Models for Predicting COVID-19 Cases and Assessing Effects of Mitigation Strategies.](https://github.com/shanghongxie/shanghongxie/blob/main/Publications/COVID_FIPH_2020.pdf) *Frontiers in Public Health* 8 (2020) 325. 
+3. Qinxia Wang, **Shanghong Xie**, Yuanjia Wang, and Donglin Zeng. [Survival-Convolution Models for Predicting COVID-19 Cases and Assessing Effects of Mitigation Strategies.](https://github.com/shanghongxie/shanghongxie/blob/main/Publications/COVID_FIPH_2020.pdf) *Frontiers in Public Health* 8 (2020) 325. [[code](https://github.com/COVID19BIOSTAT/covid19_prediction)] 
    * Our model is used by U.S. Center of Disease Control and Prevention (CDC) for COVID-19 Ensemble Forecast [[our forecast website](https://github.com/COVID19BIOSTAT/covid19_prediction)][[CDC ensemble forecast website](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/forecasting-us.html)] 
        <br>
        
