@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 ---
-### Statistical Methodological Publications
+### Statistical Methodological Papers
 *: Joint first author, equal contribution
 
 1. **Shanghong Xie**, Donglin Zeng, and Yuanjia Wang (2021). [Integrative Network Learning for Multi-modality
@@ -22,7 +22,7 @@ Biomarker Data.](https://github.com/shanghongxie/shanghongxie/blob/main/Publicat
 <br>
 
 
-### Application Publications
+### Collaborative Papers
 
 
 *: Joint first author, equal contribution
