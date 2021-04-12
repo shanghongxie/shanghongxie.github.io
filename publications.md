@@ -1,6 +1,6 @@
 ---
 layout: page
-subtitle: Publications
+title: Publications
 ---
 ### Statistical Methodological Papers
 *: Joint first author, equal contribution
