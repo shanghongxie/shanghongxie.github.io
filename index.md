@@ -2,11 +2,11 @@
 
 
 ## Research Interests
-### Machine learning
-### Network analysis, graphical model
-### Precision medicine
-### Functional data analysis
-### Neuroimaging, biomarker
+  * Machine learning
+  * Network analysis, graphical model
+  * Precision medicine
+  * Functional data analysis
+  * Neuroimaging, biomarker
 
 
 ## Contact
