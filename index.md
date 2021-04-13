@@ -7,7 +7,7 @@
   * Precision medicine
   * Functional data analysis
   * Neuroimaging, biomarker
-
+ <br/> 
 
 ### Contact
 Email: sx2168@cumc.columbia.edu
