@@ -10,9 +10,9 @@
 <br/>
 
 ### Education
-Ph.D., Biostatistics, Columbia University, 2019 <br/>
-M.S., Statistics, University of Illinois at Urbana-Champaign, 2014 <br/>
-B.S., Statistics, Sichuan University, 2012
+Ph.D., Department of Biostatistics, Columbia University, 2019 <br/>
+M.S., Department of Statistics, University of Illinois at Urbana-Champaign, 2014 <br/>
+B.S., Department of Mathematics, Sichuan University, 2012
 <br/>
 
 ### Contact
