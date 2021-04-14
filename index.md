@@ -7,7 +7,7 @@
   * Precision medicine
   * Functional data analysis
   * Neuroimaging, biomarker
-<br/>
+
 
 ### Education
 Ph.D. in Biostatistics, Columbia University, 2019 <br/>
