@@ -3,17 +3,6 @@ layout: base
 ---
 
 {% include header.html type="page" %}
-
-<div class="{% if page.full-width %} container-fluid {% else %} container-md {% endif %}" role="main">
-  <div class="row">
-    <div class="{% if page.full-width %} col {% else %} col-xl-8 offset-xl-2 col-lg-10 offset-lg-1 {% endif %}">
-      {% if page.before-content %}
-        <div class="before-content">
-          {% for file in page.before-content %}
-            {% include {{ file }} %}
-          {% endfor %}
-        </div>
-      {% endif %}
       
       <div class="container">
 	                        <div class="leftbox">
@@ -22,7 +11,7 @@ layout: base
 	      
 				<div class="rightbox">
 					
-					<img src="https://github.com/shanghongxie/shanghongxie.github.io/raw/master/assets/img/bio-photo.jpg" alt="photo" width="150" height="200">
+					<img src="assets/img/bio-photo.jpg" alt="photo" width="150" height="200">
 					<p>Shanghong Xie </p>
 					<p style="font-size:100%;"> Postdoctoral Research Scientist <br>
 					Department of Biostatistics <br>
