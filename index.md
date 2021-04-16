@@ -17,12 +17,3 @@ Ph.D., [Department of Biostatistics](https://www.publichealth.columbia.edu/acade
 M.S., [Department of Statistics](https://stat.illinois.edu/), [University of Illinois at Urbana-Champaign](https://illinois.edu/), 2014 <br/>
 B.S., [Department of Mathematics](http://math.scu.edu.cn/English/About.htm), [Sichuan University](http://en.scu.edu.cn/), 2012
 <br/>
-
-### Contact
-Email: sx2168@cumc.columbia.edu
-
-Address: <br/> 
-Department of Biostatistics<br/> 
-Mailman School of Public Health<br/> 
-Columbia University<br/> 
-New York, NY, 10032
