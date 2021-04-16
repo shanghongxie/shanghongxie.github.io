@@ -1,4 +1,4 @@
-<img align="right" src="assets/img/bio-photo.jpg" width="200" height="250"> I am a Postdoctoral Research Scientist in the Department of Biostatistics at Columbia University, Mailman School of Public Health with Professors [Yuanjia Wang](https://blogs.cuit.columbia.edu/yw2016/) and [R. Todd Ogden](https://www.publichealth.columbia.edu/people/our-faculty/to166).  <br/>
+<img align="right" src="assets/img/bio-photo.jpg" title="Shanghong Xie" width="200" height="250"> I am a Postdoctoral Research Scientist in the Department of Biostatistics at Columbia University, Mailman School of Public Health with Professors [Yuanjia Wang](https://blogs.cuit.columbia.edu/yw2016/) and [R. Todd Ogden](https://www.publichealth.columbia.edu/people/our-faculty/to166).  <br/>
 
 
 ### Research Interests
