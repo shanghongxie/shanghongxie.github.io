@@ -5,8 +5,10 @@ title: Shanghong Xie
 
 
 <div class="container">
+ <div class="row">&nbsp;</div>
+ <div class="row">
 <img align="right" src="assets/img/bio-photo.jpg" alt="Shanghong Xie" width="200" height="250"> I am a Postdoctoral Research Scientist in the Department of Biostatistics at Columbia University, Mailman School of Public Health with Professors <a href = https://blogs.cuit.columbia.edu/yw2016/"> Yuanjia Wang </a> and <a href = "https://www.publichealth.columbia.edu/people/our-faculty/to166"> R. Todd Ogden </a>.	
-
+</div>
 </div>
 
 
