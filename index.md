@@ -12,9 +12,8 @@ title: Shanghong Xie
 	</div>
  <div class="col-md-4"><a class="thumb" href="#">
 		<img src="assets/img/bio-photo.jpg" alt="Shanghong Xie" width="200" height="250"/></a>
-
 	</div>
-</div>
+  </div>
 </div>
 
 
