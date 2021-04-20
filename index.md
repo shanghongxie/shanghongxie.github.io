@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Shanghong Xie
-bigimg: assets/img/cover.jpg
+cover-img: /assets/img/cover.jpg
 ---
 
 
