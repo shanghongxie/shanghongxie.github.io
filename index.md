@@ -2,7 +2,7 @@
 layout: page
 title: Shanghong Xie
 ---
-<img align="right" src="assets/img/bio-photo.jpg" alt="Shanghong Xie" width="200" height="250"> I am a Postdoctoral Research Scientist in the Department of Biostatistics at Columbia University, Mailman School of Public Health with Professors [Yuanjia Wang](https://blogs.cuit.columbia.edu/yw2016/) and [R. Todd Ogden](https://www.publichealth.columbia.edu/people/our-faculty/to166).  <br/>
+
 
 <div class="container">
 <div class="row">&nbsp;</div>
@@ -11,7 +11,7 @@ title: Shanghong Xie
 	I am a Postdoctoral Research Scientist in the Department of Biostatistics at Columbia University, Mailman School of Public Health with Professors [Yuanjia Wang](https://blogs.cuit.columbia.edu/yw2016/) and [R. Todd Ogden](https://www.publichealth.columbia.edu/people/our-faculty/to166).
 	</div>
 	<div class="col-md-3"><a class="thumb" href="#">
-		<img src="assets/img/bio-photo.jpg" width="200" height="250" alt="Shanghong Xie"/></a>
+		<img src="assets/img/bio-photo.jpg" alt="Shanghong Xie"/></a>
 	</div>
 
 </div>
