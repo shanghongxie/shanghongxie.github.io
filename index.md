@@ -15,8 +15,6 @@ title: Shanghong Xie
 
 	</div>
 </div>
-	
-
 </div>
 
 
