@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Research
+cover-img: /assets/img/cover.jpg
 ---
 
 
