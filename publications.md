@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Publications
+cover-img: /assets/img/cover.jpg
 ---
 ### Statistical Methodological Papers
 *: Joint first author, equal contribution
