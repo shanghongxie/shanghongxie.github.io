@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Software
+cover-img: /assets/img/cover.jpg
 ---
 
 
