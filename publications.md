@@ -9,7 +9,7 @@ cover-img: /assets/img/cover.jpg
 1. **Shanghong Xie**, Donglin Zeng, and Yuanjia Wang (2021). [Integrative Network Learning for Multi-modality
 Biomarker Data.](https://github.com/shanghongxie/shanghongxie/blob/main/Publications/INL_AOAS_2021.pdf) *Annals of Applied Statistics* 15 (1), 64-87. [[code](https://github.com/shanghongxie/INL)]
 
-2. **Shanghong Xie**, Xiang Li, Peter McColgan, Rachael I. Scahill, Donglin Zeng, and Yuanjia Wang (2020). [Identifying Disease-associated Biomarker Network Features Through Conditional Graphical Model.](https://github.com/shanghongxie/shanghongxie/blob/main/Publications/Identifying_Biometrics_2020.pdf) *Biometrics* 76, 995-1006. [[code](https://github.com/shanghongxie/Covariate-adjusted-network)]  
+2. **Shanghong Xie**, Xiang Li, Peter McColgan, Rachael I. Scahill, Donglin Zeng, and Yuanjia Wang (2020). [Identifying Disease-associated Biomarker Network Features Through Conditional Graphical Model.](https://github.com/shanghongxie/shanghongxie/blob/main/Publications/Identifying_Biometrics_2020.pdf) *Biometrics* 76 (3), 995-1006. [[code](https://github.com/shanghongxie/Covariate-adjusted-network)]  
    * [Cover story of *Biometrics* September 2020 issue](https://github.com/shanghongxie/shanghongxie/blob/main/Publications/cover_biometrics.pdf)
    * An earlier version won the International Conference on Health Policy Statistics (ICHPS) 2018 Student Travel Award 
  
