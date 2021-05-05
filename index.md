@@ -9,7 +9,7 @@ cover-img: /assets/img/cover.jpg
 <div class="row">&nbsp;</div>
 <div class="row">
 	<div class="col-md-8">
-	I am a Postdoctoral Research Scientist in the Department of Biostatistics at Columbia University, Mailman School of Public Health with Professors <a href = https://blogs.cuit.columbia.edu/yw2016/"> Yuanjia Wang </a> and <a href = "https://www.publichealth.columbia.edu/people/our-faculty/to166"> R. Todd Ogden.</a> I obtained my Ph.D. in Biostatistics from Columbia University in 2019.
+	I am a Postdoctoral Research Scientist in the Department of Biostatistics at Columbia University, Mailman School of Public Health with Professors <a href = https://blogs.cuit.columbia.edu/yw2016/"> Yuanjia Wang </a> and <a href = "https://www.publichealth.columbia.edu/people/our-faculty/to166"> R. Todd Ogden</a>. I obtained my Ph.D. in Biostatistics from Columbia University in 2019.
 	</div>
  <div class="col-md-4"><a class="thumb" href="#">
 		<img src="assets/img/bio-photo.jpg" alt="Shanghong Xie" width="200" height="250"/></a>
