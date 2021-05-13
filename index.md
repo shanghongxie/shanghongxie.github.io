@@ -25,7 +25,6 @@ cover-img: /assets/img/cover.jpg
   * Precision medicine
   * Functional data analysis
   * Neuroimaging, biomarker
-  * Neurological and Psychiatric Diseases
 <br/>
 
 ### Education
