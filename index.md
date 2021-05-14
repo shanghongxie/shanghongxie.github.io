@@ -35,7 +35,7 @@ B.S., [Department of Mathematics](http://math.scu.edu.cn/English/About.htm), [Si
 
 
 ### Contact
-Email: sx2168@cumc.columbia.edu
+Email: sx2168@columbia.edu
 
 Address: <br/> 
 Department of Biostatistics<br/> 
