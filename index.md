@@ -49,7 +49,7 @@ Biomarker Data.](https://projecteuclid.org/journals/annals-of-applied-statistics
 <br>
 
 
-### Collaborative Papers
+### Application Papers
 6. Jill Goldman, **Shanghong Xie**, Dina Green, Ali Naini, Mahesh M. Mansukhani, and Karen Marder (2021). [Predictive Testing for Neurodegenerative Diseases in the Age of Next-generation Sequencing.](https://onlinelibrary.wiley.com/doi/full/10.1002/jgc4.1342) *Journal of Genetic Counseling* 30, 553-562. 
 
 6. Michael Avissar<sup>&#42;</sup>, **Shanghong Xie**<sup>&#42;</sup>, Blair Vail, Javier Lopez Calderon, Yuanjia Wang, and Daniel Javitt (2018). [Meta-analysis of Mismatch Negativity to Simple versus Complex Deviants in Schizophrenia.](https://www.sciencedirect.com/science/article/pii/S0920996417304103) _Schizophrenia Research_ 19, 25-34.  
