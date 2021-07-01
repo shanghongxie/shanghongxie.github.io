@@ -36,7 +36,7 @@ title: Shanghong Xie
 Biomarker Data.](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-15/issue-1/Integrative-network-learning-for-multimodality-biomarker-data/10.1214/20-AOAS1382.full) *Annals of Applied Statistics* 15 (1), 64-87. [[code](https://github.com/shanghongxie/INL)]
 
 2. **Shanghong Xie**, Xiang Li, Peter McColgan, Rachael I. Scahill, Donglin Zeng, and Yuanjia Wang (2020). [Identifying Disease-associated Biomarker Network Features Through Conditional Graphical Model.](https://onlinelibrary.wiley.com/doi/10.1111/biom.13201) *Biometrics* 76 (3), 995-1006. [[code](https://github.com/shanghongxie/Covariate-adjusted-network)]  
-   * [Cover story of *Biometrics* 76(3) issue](https://onlinelibrary.wiley.com/doi/epdf/10.1111/biom.13092)
+   * [Cover story of *Biometrics* 76 (3) issue](https://onlinelibrary.wiley.com/doi/epdf/10.1111/biom.13092)
    * An earlier version won the International Conference on Health Policy Statistics (ICHPS) 2018 Student Travel Award 
  
 3. Qinxia Wang, **Shanghong Xie**, Yuanjia Wang, and Donglin Zeng (2020). [Survival-Convolution Models for Predicting COVID-19 Cases and Assessing Effects of Mitigation Strategies.](https://www.frontiersin.org/articles/10.3389/fpubh.2020.00325/full) *Frontiers in Public Health* 8, 325. [[code](https://github.com/COVID19BIOSTAT/covid19_prediction)] 
