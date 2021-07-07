@@ -9,7 +9,7 @@ title: Shanghong Xie
 <div class="row">&nbsp;</div>
 <div class="row">
 	<div class="col-md-8">
-	I am a postdoctoral researcher in the Department of Biostatistics at Columbia University, Mailman School of Public Health with Professors <a href = https://blogs.cuit.columbia.edu/yw2016/"> Yuanjia Wang </a> and <a href = "https://www.publichealth.columbia.edu/people/our-faculty/to166"> R. Todd Ogden</a>. I obtained my Ph.D. in Biostatistics from Columbia University in 2019.
+	I am a postdoctoral researcher in the Department of Biostatistics at Columbia University, Mailman School of Public Health with Professors <a href = https://blogs.cuit.columbia.edu/yw2016/"> Yuanjia Wang </a> and <a href = "https://www.publichealth.columbia.edu/people/our-faculty/to166"> R. Todd Ogden</a>. I obtained my Ph.D. in Biostatistics from Columbia University in 2019. My current research focuses on developing graphical models and network analysis methods to learn the structure of static and dynamic biomarker networks from observational and interventional data. I am also interested in treatment strategies, estimating individualized treatment rules that are tailored according to subject-specific features, and functional data analysis. 
 	</div>
  <div class="col-md-4"><a class="thumb" href="#">
 		<img src="assets/img/bio-photo.jpg" alt="Shanghong Xie" width="200" height="250"/></a>
@@ -27,6 +27,14 @@ title: Shanghong Xie
   * Neuroimaging, Biomarker
 <br/>
 
+		
+## Education
+Ph.D, [Department of Biostatistics](https://www.publichealth.columbia.edu/academics/departments/biostatistics), [Columbia University](https://www.columbia.edu/), 2019
+
+M.S., [Department of Statistics](https://stat.illinois.edu/), [University of Illinois at Urbana-Champaign](https://illinois.edu/), 2014
+		
+B.S., [School of Mathematics](https://math.scu.edu.cn/English.htm), [Sichuan University](https://en.scu.edu.cn/), 2012		
+		
 
 ## Publications
 *: Joint first author, equal contribution
