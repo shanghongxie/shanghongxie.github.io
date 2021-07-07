@@ -17,7 +17,7 @@ title: Shanghong Xie
   </div>
 </div>
 
-
+<br/>
 
 ## Research Interests
   * Machine learning
@@ -30,10 +30,8 @@ title: Shanghong Xie
 		
 ## Education
 Ph.D, [Department of Biostatistics](https://www.publichealth.columbia.edu/academics/departments/biostatistics), [Columbia University](https://www.columbia.edu/), 2019
-
 M.S., [Department of Statistics](https://stat.illinois.edu/), [University of Illinois at Urbana-Champaign](https://illinois.edu/), 2014
-		
-B.S., [School of Mathematics](https://math.scu.edu.cn/English.htm), [Sichuan University](https://en.scu.edu.cn/), 2012		
+		B.S., [School of Mathematics](https://math.scu.edu.cn/English.htm), [Sichuan University](https://en.scu.edu.cn/), 2012		
 		
 
 ## Publications
