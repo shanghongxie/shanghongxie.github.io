@@ -1,11 +1,3 @@
----
-layout: page
-title: Publications
-parent: Shanghong Xie
-nav_order: 1
-
----
-
 ### Statistical Methodological Papers
 *: Joint first author, equal contribution
 
