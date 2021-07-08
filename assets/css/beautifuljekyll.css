@@ -145,7 +145,7 @@ img {
   line-height: 1.5;
   padding-top: 0.625rem;
   padding-bottom: 0.625rem;
-  font-size: 1.125rem;
+  font-size: 1.5rem;
 }
 
 .navbar-custom .navbar-brand-logo {
@@ -652,7 +652,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
 }
 .intro-header .page-heading h1 {
   margin-top: 0;
-  font-size: 3.125rem;
+  font-size: 2.125rem;
 }
 .intro-header .post-heading h1 {
   margin-top: 0;
@@ -705,7 +705,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
     padding: 9.375rem 0;
   }
   .intro-header .page-heading h1 {
-    font-size: 5rem;
+    font-size: 3rem;
   }
   .intro-header .post-heading h1 {
     font-size: 3.125rem;
