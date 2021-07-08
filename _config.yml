@@ -14,8 +14,8 @@ author: Shanghong Xie
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-#  Home: "https://shanghongxie.github.io/"
-#  Publications: "publications"
+  Home: "https://shanghongxie.github.io/"
+  Publications: "publications"
 #  Software: "software"
  
  # Author's home: "https://deanattali.com"
