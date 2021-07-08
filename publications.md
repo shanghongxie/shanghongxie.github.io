@@ -1,8 +1,9 @@
 ---
 layout: page
 title: Publications
-cover-img: /assets/img/cover.jpg
+parent: Shanghong Xie
 ---
+
 ### Statistical Methodological Papers
 *: Joint first author, equal contribution
 
