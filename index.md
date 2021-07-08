@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Shanghong Xie
+classes: wide
 
 ---
 
