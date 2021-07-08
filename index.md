@@ -40,6 +40,13 @@ has_childern: true
 <br/>  <br>	
 
 
+<div class="nav-item">
+    <a href="/#publications" data-target="#publications">
+    <span>Publications</span>
+</a>
+</div>
+	
+## Publications
 {% include_relative publications.md %}
 
 
