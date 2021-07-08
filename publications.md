@@ -2,6 +2,7 @@
 layout: page
 title: Publications
 parent: Shanghong Xie
+nav_order: 1
 
 ---
 
