@@ -39,15 +39,13 @@ has_childern: true
 * B.S., [School of Mathematics](https://math.scu.edu.cn/English.htm), [Sichuan University](https://en.scu.edu.cn/), 2012		
 <br/>  <br>	
 
-
-<div class="nav-item">
-    <a href="/#publications" data-target="#publications">
-    <span>Publications</span>
-</a>
-</div>
 	
 ## Publications
 {% include_relative publications.md %}
+
+
+## Software
+{% include_relative software.md %}
 
 
 
