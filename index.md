@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Shanghong Xie
-classes: wide
+has_childern: true
 
 ---
 
