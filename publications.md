@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Publications
-parent: Home
+parent: Shanghong Xie
+
 ---
 
 ### Statistical Methodological Papers
