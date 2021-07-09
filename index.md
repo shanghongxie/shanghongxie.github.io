@@ -15,7 +15,7 @@ layout: page
 	</div>
  <div class="col-md-4"><a class="thumb" href="#">
 		<img src="assets/img/bio-photo.jpg" alt="Shanghong Xie" width="200" height="250"/></a> <br/><br/>
-	        <strong> Shanghong Xie <strong> <br/>
+	        <b> Shanghong Xie <b> <br/>
 	        Email: sx2168@columbia.edu 
 	</div>
   </div>
