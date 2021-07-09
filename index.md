@@ -14,11 +14,10 @@ layout: page
 		My current research focuses on developing graphical models and network analysis methods to learn the structure of static and dynamic biomarker networks. I am also interested in treatment strategies, estimating individualized treatment rules that are tailored according to subject-specific features, and functional data analysis. 
 	</div>
  <div class="col-md-4"><a class="thumb" href="#">
-		<img src="assets/img/bio-photo.jpg" alt="Shanghong Xie" width="200" height="250"/></a> <br/><br/>
+		<img src="assets/img/bio-photo.jpg" alt="Shanghong Xie" width="200" height="250"/></a> <br/>
 	 <p align="center">
 	        <b> Shanghong Xie </b>
         </p>
-		 <br/>
 	        Email: sx2168@columbia.edu 
 	</div>
   </div>
