@@ -18,7 +18,9 @@ layout: page
 	      <div align="center" style="font-size:120%" >
 	        <b> Shanghong Xie </b> <br/>
 	 </div>
-	      Email: sx2168@columbia.edu 
+	      <div align="center"
+	         Email: sx2168@columbia.edu 
+	</div>
       </div>
   </div>
 </div>
