@@ -15,10 +15,12 @@ layout: page
 	</div>
       <div class="col-md-4"><a class="thumb" href="#">
 		<img src="assets/img/bio-photo.jpg" alt="Shanghong Xie" class="center" width="200" height="250"/></a>
-	      <div align="center" style="font-size:110%" >
+	      <div align="center" style="font-size:120%" >
 	        <b> Shanghong Xie </b> <br/>
 	 </div>
+	   <div align="center"
 	      Email: sx2168@columbia.edu 
+	 </div>
       </div>
   </div>
 </div>
