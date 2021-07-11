@@ -993,3 +993,9 @@ pre {
   display: block;
   margin: 0 auto;
 }
+
+.my_text{
+           font-family:    Open Sans;
+           font-size:      2em;
+           font-weight:    bold;
+}
