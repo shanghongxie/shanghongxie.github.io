@@ -15,7 +15,7 @@ layout: page
 	</div>
       <div class="col-md-4"><a class="thumb" href="#">
 		<img src="assets/img/bio-photo.jpg" alt="Shanghong Xie" class="center" width="200" height="250"/></a>
-	      <div align="center" style="font-size:140%" >
+	      <div align="center" style="font-size:140%" font-family = "Open Sans" >
 	       <b> Shanghong Xie </b> <br/>
 	 </div>
 	      <div align="center" >
