@@ -2,7 +2,7 @@
 		
 ### Statistical Methodological Papers
 - **Shanghong Xie**, Donglin Zeng, and Yuanjia Wang (2021). [Integrative Network Learning for Multi-modality
-Biomarker Data.](https://shanghongxie.github.io/folder/INL_AOAS2021.pdf) *Annals of Applied Statistics* 15 (1), 64-87.[[supp](https://shanghongxie.github.io/folder/INL_AOAS_supp2021.pdf)] [[code](https://github.com/shanghongxie/INL)]
+Biomarker Data.](https://shanghongxie.github.io/folder/INL_AOAS2021.pdf) *Annals of Applied Statistics* 15 (1), 64-87. [[supp](https://shanghongxie.github.io/folder/INL_AOAS_supp2021.pdf)] [[code](https://github.com/shanghongxie/INL)]
 
 - **Shanghong Xie**, Xiang Li, Peter McColgan, Rachael I. Scahill, Donglin Zeng, and Yuanjia Wang (2020). [Identifying Disease-associated Biomarker Network Features Through Conditional Graphical Model.](https://shanghongxie.github.io/folder/Identify_Biometrics2020.pdf) *Biometrics* 76 (3), 995-1006. [[supp](https://shanghongxie.github.io/folder/Identify_Biometrics_supp2020.pdf)][[code](https://github.com/shanghongxie/Covariate-adjusted-network)]  
    * [Cover story of *Biometrics* September 2020 issue](https://onlinelibrary.wiley.com/doi/epdf/10.1111/biom.13092)
