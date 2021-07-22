@@ -1,6 +1,6 @@
 *: Joint first author, equal contribution
 		
-#### Statistical Methodological Papers
+### Statistical Methodological Papers
 - **Shanghong Xie**, Donglin Zeng, and Yuanjia Wang (2021). [Integrative Network Learning for Multi-modality
 Biomarker Data.](https://shanghongxie.github.io/folder/INL_AOAS2021.pdf) *Annals of Applied Statistics* 15 (1), 64-87. [[supp](https://shanghongxie.github.io/folder/INL_AOAS_supp2021.pdf)] [[code](https://github.com/shanghongxie/INL)]
 
@@ -19,7 +19,7 @@ Biomarker Data.](https://shanghongxie.github.io/folder/INL_AOAS2021.pdf) *Annals
 <br><br>
 
 
-#### Application Papers
+### Application Papers
 - Jill Goldman, **Shanghong Xie**, Dina Green, Ali Naini, Mahesh M. Mansukhani, and Karen Marder (2021). [Predictive Testing for Neurodegenerative Diseases in the Age of Next-generation Sequencing.](https://shanghongxie.github.io/folder/Predictive_JGC_2020.pdf) *Journal of Genetic Counseling* 30, 553-562. 
 
 - Michael Avissar<sup>&#42;</sup>, **Shanghong Xie**<sup>&#42;</sup>, Blair Vail, Javier Lopez Calderon, Yuanjia Wang, and Daniel Javitt (2018). [Meta-analysis of Mismatch Negativity to Simple versus Complex Deviants in Schizophrenia.](https://shanghongxie.github.io/folder/Meta_Schizophrenia_2018.pdf) _Schizophrenia Research_ 19, 25-34.  
