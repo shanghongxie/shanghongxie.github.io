@@ -27,7 +27,7 @@ layout: page
 
 <br/>
 
-### Research Interests
+## Research Interests
   * Machine learning
   * Network analysis, Graphical model
   * Precision medicine
@@ -36,18 +36,18 @@ layout: page
 <br/>  <br>
 
 		
-### Education
+## Education
 * Ph.D., [Department of Biostatistics](https://www.publichealth.columbia.edu/academics/departments/biostatistics), [Columbia University](https://www.columbia.edu/), 2019		
 * M.S., [Department of Statistics](https://stat.illinois.edu/), [University of Illinois at Urbana-Champaign](https://illinois.edu/), 2014
 * B.S., [School of Mathematics](https://math.scu.edu.cn/English.htm), [Sichuan University](https://en.scu.edu.cn/), 2012		
 <br/>  <br>	
 
 	
-### Publications
+## Publications
 {% include_relative publications.md %}
 
 
-### Software
+## Software
 {% include_relative software.md %}
 
 
