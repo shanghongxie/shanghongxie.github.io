@@ -1,6 +1,6 @@
 *: Joint first author, equal contribution
 		
-### Statistical Methodological Papers
+### Statistical Methodology Papers
 - **Shanghong Xie**, Donglin Zeng, and Yuanjia Wang (2021). [Integrative Network Learning for Multi-modality
 Biomarker Data.](https://shanghongxie.github.io/folder/INL_AOAS2021.pdf) *Annals of Applied Statistics* 15 (1), 64-87. [[supp](https://shanghongxie.github.io/folder/INL_AOAS_supp2021.pdf)] [[code](https://github.com/shanghongxie/INL)]
 
