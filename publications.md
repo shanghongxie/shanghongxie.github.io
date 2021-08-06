@@ -15,7 +15,7 @@ Biomarker Data.](https://shanghongxie.github.io/folder/INL_AOAS2021.pdf) *Annals
        
 - Xiang Li<sup>&#42;</sup>, **Shanghong Xie**<sup>&#42;</sup>, Peter McColgan, Sarah J. Tabrizi,  Rachael I. Scahill, Donglin Zeng, and Yuanjia Wang (2018). [Learning Subject-Specific Directed Acyclic Graphs with Mixed Effects Structural Equation Models from Observational Data.](https://shanghongxie.github.io/folder/DAG_FIG_2018.pdf) _Frontiers in Genetics_ 9, 430. 
 
-- Xiang Li, **Shanghong Xie**, Donglin Zeng, and Yuanjia Wang (2018). [Efficient l<sub>0</sub>-norm Feature Selection Based on Augmented and Penalized Minimization.](https://shanghongxie.github.io/folder/APML0_SIM_2018.pdf) *Statistics in Medicine* 37 (3), 473-486. [[code](https://cran.r-project.org/web/packages/APML0/index.html)]
+- Xiang Li, **Shanghong Xie**, Donglin Zeng, and Yuanjia Wang (2018). [Efficient <a href="https://www.codecogs.com/eqnedit.php?latex=l_0" target="_blank"><img src="https://latex.codecogs.com/gif.latex?l_0" title="l_0" /></a>-norm Feature Selection Based on Augmented and Penalized Minimization.](https://shanghongxie.github.io/folder/APML0_SIM_2018.pdf) *Statistics in Medicine* 37 (3), 473-486. [[code](https://cran.r-project.org/web/packages/APML0/index.html)]
 <br><br>
 
 
