@@ -1,6 +1,13 @@
 *: Joint first author, equal contribution
 		
 ### Statistical Methodology Papers
+- **Shanghong Xie**, Wenbo Wang, Qinxia Wang, Yuanjia Wang, and Donglin Zeng (2021+). Evaluating Effectiveness of Public Health Intervention Strategies for Mitigating COVID-19 Pandemic. Submitted. [[arxiv]](https://arxiv.org/abs/2107.09749)
+
+- **Shanghong Xie**, Thaddeus Tarpey, Eva Petkova, and R. Todd Ogden (2021+). Multiple Domain and Multiple Kernel Outcome-weighted Learning for Estimating Individualized Treatment Regimes. Submitted
+
+- **Shanghong Xie**, Erin McDonnell, and Yuanjia Wang (2020+). Conditional Gaussian Graphical Model for Estimating Personalized Disease Symptom Networks. Submitted.
+  * An earlier version won the American Statistical Association (ASA) Mental Health Statistics Section Student Paper Award, JSM 2020
+    <br>
 - **Shanghong Xie**, Donglin Zeng, and Yuanjia Wang (2021). [Integrative Network Learning for Multi-modality
 Biomarker Data.](https://shanghongxie.github.io/folder/INL_AOAS2021.pdf) *Annals of Applied Statistics* 15 (1), 64-87. [[supp](https://shanghongxie.github.io/folder/INL_AOAS_supp2021.pdf)] [[code](https://github.com/shanghongxie/INL)]
 
