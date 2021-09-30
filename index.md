@@ -50,7 +50,8 @@ layout: page
 
 ## Contact
 * Email: shanghongxie@gmail.com; xiesh@swufe.edu.cn
-* Address: Department of Data Science, School of Statistics
-           Southwestern University of Finance and Economics
-	   Chengdu, Sichuan, 611130
-	   China
+* Address: <br>
+Department of Data Science, School of Statistics <br>
+           Southwestern University of Finance and Economics <br>
+	   Chengdu, Sichuan, 611130 <br>
+	   China <br>
