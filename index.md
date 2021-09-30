@@ -20,6 +20,7 @@ layout: page
   </div>
 </div>
 </div>
+</div>	
 <br/>
 
 ## Research Interests
