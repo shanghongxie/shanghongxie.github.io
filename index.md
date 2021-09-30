@@ -17,9 +17,6 @@ layout: page
 		<img src="assets/img/bio-photo.JPG" alt="Shanghong Xie" class="center" width="180" height="245"/></a>
 	      <div align="center">
 	       <my_text> Shanghong Xie </my_text> <br/>
-	 </div>
-	         Email: shanghongxie@gmail.com; xiesh@swufe.edu.cn
-      </div>
   </div>
 </div>
 
@@ -48,6 +45,7 @@ layout: page
 ## Software
 {% include_relative software.md %}
 
-
+## Contact
+{% include_relative footer}
 
 
