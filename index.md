@@ -19,7 +19,11 @@ layout: page
 	       <my_text> Shanghong Xie </my_text> <br/>
 	 </div>
 	      <div align="center" >
-	         Email: sx2168@columbia.edu 
+	         Email: shanghongxie@gmail.com; xiesh@swufe.edu.cn <br/>
+		 Address: Department of Data Science, School of Statistics <br/>
+		      Southwestern University of Finance and Economics <br/>
+		      Chengdu, Sichuan, 611130, China
+		      
 	</div>
       </div>
   </div>
