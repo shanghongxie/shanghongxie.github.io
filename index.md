@@ -18,7 +18,7 @@ layout: page
 	      <div align="center">
 	       <my_text> Shanghong Xie </my_text> <br/>
   </div>
-	      Email: shanghongxie@gmail.com; xiesh@swufe.edu.cn
+	      
 </div>
 </div>
 </div>	
@@ -48,4 +48,9 @@ layout: page
 {% include_relative software.md %}
 
 
-
+## Contact
+* Email: shanghongxie@gmail.com; xiesh@swufe.edu.cn
+* Address: Department of Data Science, School of Statistics
+           Southwestern University of Finance and Economics
+	   Chengdu, Sichuan, 611130
+	   China
