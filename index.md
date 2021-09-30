@@ -45,7 +45,5 @@ layout: page
 ## Software
 {% include_relative software.md %}
 
-## Contact
-{% include_relative footer}
 
 
