@@ -18,10 +18,7 @@ layout: page
 	      <div align="center">
 	       <my_text> Shanghong Xie </my_text> <br/>
 	 </div>
-	      <div align="center" >
 	         Email: shanghongxie@gmail.com; xiesh@swufe.edu.cn
-		      
-	</div>
       </div>
   </div>
 </div>
