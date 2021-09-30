@@ -19,7 +19,7 @@ layout: page
 	       <my_text> Shanghong Xie </my_text> <br/>
   </div>
 </div>
-
+</div>
 <br/>
 
 ## Research Interests
