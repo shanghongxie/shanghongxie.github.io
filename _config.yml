@@ -38,8 +38,8 @@ navbar-links:
 
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
-#social-network-links:
- # email: "sx2168@cumc.columbia.edu"
+social-network-links:
+  email: "shanghongxie@gmail.com; xiesh@swufe.edu.cn"
   #github: https://github.com/shanghongxie
 #  reddit: yourname
 #  linkedin: daattali
