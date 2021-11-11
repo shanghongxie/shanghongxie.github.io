@@ -9,7 +9,7 @@ Biomarker Data.](https://shanghongxie.github.io/folder/INL_AOAS2021.pdf) *Annals
    * An earlier version won the International Conference on Health Policy Statistics (ICHPS) 2018 Student Travel Award 
     <br><br>  
  
-- Qinxia Wang, **Shanghong Xie**, Yuanjia Wang, and Donglin Zeng (2020). [Survival-Convolution Models for Predicting COVID-19 Cases and Assessing Effects of Mitigation Strategies.](https://shanghongxie.github.io/folder/COVID_FIPH_2020.pdf) *Frontiers in Public Health* 8, 325. [[code](https://github.com/COVID19BIOSTAT/covid19_prediction)] 
+- Qinxia Wang, **Shanghong Xie**, Yuanjia Wang, and Donglin Zeng (2020). [Survival-Convolution Models for Predicting COVID-19 Cases and Assessing Effects of Mitigation Strategies.](https://shanghongxie.github.io/folder/COVID_FIPH_2020.pdf) *Frontiers in Public Health* 8, 325. [[supp](https://shanghongxie.github.io/folder/COVID_FIPH_supp_2020.pdf)[code](https://github.com/COVID19BIOSTAT/covid19_prediction)] 
    * Our model is used by U.S. Center of Disease Control and Prevention (CDC) for COVID-19 Ensemble Forecast [[our forecast website](https://github.com/COVID19BIOSTAT/covid19_prediction)][[CDC ensemble forecast website](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/forecasting-us.html)] 
        <br>
        
