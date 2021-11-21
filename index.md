@@ -50,7 +50,7 @@ layout: page
 
 ## Contact
 **Email**: <br>
-shanghongxie@gmail.com <br>
+shanghongxie@gmail.com; xiesh@swufe.edu.cn <br>
 
 **Address**: <br>
 School of Statistics <br>
