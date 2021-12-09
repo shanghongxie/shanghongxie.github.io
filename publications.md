@@ -1,8 +1,8 @@
 *: Joint first author, equal contribution
 		
 ### Statistical Methodology Papers
-- **Shanghong Xie**, Erin Mcdonnell, and Yuanjia Wang (2021). Conditional Gaussian Graphical
-Model for Estimating Personalized Disease Symptom Networks. *Statistics in Medicine*. In press
+- **Shanghong Xie**, Erin Mcdonnell, and Yuanjia Wang (2021). [Conditional Gaussian Graphical
+Model for Estimating Personalized Disease Symptom Networks.](https://onlinelibrary.wiley.com/doi/10.1002/sim.9274) *Statistics in Medicine*. In press
    * An earlier version won American Statistical Association (ASA) 2020 Mental Health Statistics Section Student Paper Award
    
 - **Shanghong Xie**, Donglin Zeng, and Yuanjia Wang (2021). [Integrative Network Learning for Multi-modality
