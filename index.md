@@ -11,7 +11,7 @@ layout: page
 	<div class="col-md-8">
 	I am an Assistant Professor in the School of Statistics at the <a href = "https://e.swufe.edu.cn/"> Southwestern University of Finance and Economics</a>. I  completed my Ph.D. and postdoctoral training in the <a href = "https://www.publichealth.columbia.edu/academics/departments/biostatistics"> Department of Biostatistics</a> at <a href = "https://www.columbia.edu/"> Columbia University</a>, under the supervision of Professors 
 		<a href = "https://blogs.cuit.columbia.edu/yw2016/"> Yuanjia Wang</a> and <a href = "https://www.publichealth.columbia.edu/people/our-faculty/to166"> R. Todd Ogden</a>.  <br/><br/>
-		My current research focuses on developing network analysis methods and graphical models to learn the structure of static and dynamic biomarker networks. I am also interested in treatment strategies, estimating individualized treatment rules that are tailored according to subject-specific features, and functional data analysis. 
+		My research interests lie in the broad area of machine learning. I am interested in developing network analysis methods and graphical models to learn the structure of static and dynamic biomarker networks. I am also interested in treatment strategies, estimating individualized treatment rules that are tailored according to subject-specific features, and functional data analysis. 
 	</div>
       <div class="col-md-4"><a class="thumb" href="#">
 		<img src="assets/img/bio-photo.JPG" alt="Shanghong Xie" class="center" width="180" height="245"/></a>
@@ -50,7 +50,7 @@ layout: page
 
 ## Contact
 **Email**: <br>
-shanghongxie@gmail.com; xiesh@swufe.edu.cn <br>
+sx2168@columbia.edu; xiesh@swufe.edu.cn <br>
 
 **Address**: <br>
 School of Statistics <br>
