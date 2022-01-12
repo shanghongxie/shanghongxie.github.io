@@ -42,7 +42,7 @@ layout: page
 	
 ## Publications
 {% include_relative publications.md %}
-<br/>  <br>
+<br>
 
 ## Software
 {% include_relative software.md %}
