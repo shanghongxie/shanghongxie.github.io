@@ -19,9 +19,7 @@ Biomarker Data.](https://projecteuclid.org/journals/annals-of-applied-statistics
 (*: Joint first author, equal contribution)
        
 - Xiang Li, **Shanghong Xie**, Donglin Zeng, Yuanjia Wang (2018). [Efficient l<sub>0</sub>-norm Feature Selection Based on Augmented and Penalized Minimization.](https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.7526) *Statistics in Medicine* 37 (3), 473-486. [[code](https://cran.r-project.org/web/packages/APML0/index.html)]
-       
-
-<br><br>
+<br>
 
 
 ### Collaborative Papers
