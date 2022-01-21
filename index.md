@@ -9,7 +9,7 @@ layout: page
 <div class="row">&nbsp;</div>
 <div class="row">
 	<div class="col-md-8">
-	I am an Assistant Professor in the School of Statistics at the <a href = "https://e.swufe.edu.cn/"> Southwestern University of Finance and Economics</a>. I  completed my Ph.D. and postdoctoral training in the <a href = "https://www.publichealth.columbia.edu/academics/departments/biostatistics"> Department of Biostatistics</a> at <a href = "https://www.columbia.edu/"> Columbia University</a>, under the supervision of Professors 
+	I am an Assistant Professor in the School of Statistics at the <a href = "https://e.swufe.edu.cn/"> Southwestern University of Finance and Economics</a>. I obtained my Ph.D. in Biostatistics from <a href = "https://www.columbia.edu/"> Columbia University</a> in 2019 and was a postdoctoral research scientist in the <a href = "https://www.publichealth.columbia.edu/academics/departments/biostatistics"> Department of Biostatistics</a> at <a href = "https://www.columbia.edu/"> Columbia University</a> in 2019-2021, under the supervision of Professors 
 		<a href = "https://blogs.cuit.columbia.edu/yw2016/"> Yuanjia Wang</a> and <a href = "https://www.publichealth.columbia.edu/people/our-faculty/to166"> R. Todd Ogden</a>.  <br/><br/>
 		My research interests lie in the broad area of machine learning, precision medicine, network analysis, functional data analysis, causal inference, mediation analysis with neuroimaging and genetic biomarkers, and variable selection.
 	</div>
@@ -32,12 +32,6 @@ layout: page
   * Neuroimaging, Biomarker
 <br/>  <br>
 
-		
-## Education
-* Ph.D., [Department of Biostatistics](https://www.publichealth.columbia.edu/academics/departments/biostatistics), [Columbia University](https://www.columbia.edu/), 2019		
-* M.S., [Department of Statistics](https://stat.illinois.edu/), [University of Illinois at Urbana-Champaign](https://illinois.edu/), 2014
-* B.S., [School of Mathematics](https://math.scu.edu.cn/English.htm), [Sichuan University](https://en.scu.edu.cn/), 2012		
-<br/>  <br>	
 
 	
 ## Publications
