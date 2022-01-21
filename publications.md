@@ -8,7 +8,8 @@ Biomarker Data.](https://projecteuclid.org/journals/annals-of-applied-statistics
 - **Shanghong Xie**, Xiang Li, Peter McColgan, Rachael I. Scahill, Donglin Zeng, Yuanjia Wang (2020). [Identifying Disease-associated Biomarker Network Features Through Conditional Graphical Model.](https://onlinelibrary.wiley.com/doi/10.1111/biom.13201) *Biometrics* 76 (3), 995-1006. [[code](https://github.com/shanghongxie/Covariate-adjusted-network)]  
    * [Cover story of *Biometrics* September 2020 issue](https://onlinelibrary.wiley.com/doi/10.1111/biom.13092)
    * An earlier version won the International Conference on Health Policy Statistics (ICHPS) 2018 Student Travel Award 
-    <br><br>  
+    <br>
+    
 - Jill Goldman, **Shanghong Xie**, Dina Green, Ali Naini, Mahesh M. Mansukhani, Karen Marder (2021). [Predictive Testing for Neurodegenerative Diseases in the Age of Next-generation Sequencing.](https://onlinelibrary.wiley.com/doi/abs/10.1002/jgc4.1342) *Journal of Genetic Counseling* 30, 553-562. 
 
 
