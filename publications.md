@@ -1,4 +1,3 @@
-### Statistical Methodology Papers
 - **Shanghong Xie**, Erin Mcdonnell, Yuanjia Wang (2021). [Conditional Gaussian Graphical
 Model for Estimating Personalized Disease Symptom Networks.](https://onlinelibrary.wiley.com/doi/10.1002/sim.9274) *Statistics in Medicine*. In press
    * An earlier version won American Statistical Association (ASA) 2020 Mental Health Statistics Section Student Paper Award
@@ -10,7 +9,9 @@ Biomarker Data.](https://projecteuclid.org/journals/annals-of-applied-statistics
    * [Cover story of *Biometrics* September 2020 issue](https://onlinelibrary.wiley.com/doi/10.1111/biom.13092)
    * An earlier version won the International Conference on Health Policy Statistics (ICHPS) 2018 Student Travel Award 
     <br><br>  
- 
+- Jill Goldman, **Shanghong Xie**, Dina Green, Ali Naini, Mahesh M. Mansukhani, Karen Marder (2021). [Predictive Testing for Neurodegenerative Diseases in the Age of Next-generation Sequencing.](https://onlinelibrary.wiley.com/doi/abs/10.1002/jgc4.1342) *Journal of Genetic Counseling* 30, 553-562. 
+
+
 - Qinxia Wang, **Shanghong Xie**, Yuanjia Wang, Donglin Zeng (2020). [Survival-Convolution Models for Predicting COVID-19 Cases and Assessing Effects of Mitigation Strategies.](https://www.frontiersin.org/articles/10.3389/fpubh.2020.00325/full) *Frontiers in Public Health* 8, 325. [[code](https://github.com/COVID19BIOSTAT/covid19_prediction)] 
    * Our model is used by U.S. Center of Disease Control and Prevention (CDC) for COVID-19 Ensemble Forecast [[our forecast website](https://github.com/COVID19BIOSTAT/covid19_prediction)][[CDC ensemble forecast website](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/forecasting-us.html)] 
        <br>
@@ -19,11 +20,7 @@ Biomarker Data.](https://projecteuclid.org/journals/annals-of-applied-statistics
 (*: Joint first author, equal contribution)
        
 - Xiang Li, **Shanghong Xie**, Donglin Zeng, Yuanjia Wang (2018). [Efficient l<sub>0</sub>-norm Feature Selection Based on Augmented and Penalized Minimization.](https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.7526) *Statistics in Medicine* 37 (3), 473-486. [[code](https://cran.r-project.org/web/packages/APML0/index.html)]
-<br>
 
-
-### Collaborative Papers
-- Jill Goldman, **Shanghong Xie**, Dina Green, Ali Naini, Mahesh M. Mansukhani, Karen Marder (2021). [Predictive Testing for Neurodegenerative Diseases in the Age of Next-generation Sequencing.](https://onlinelibrary.wiley.com/doi/abs/10.1002/jgc4.1342) *Journal of Genetic Counseling* 30, 553-562. 
 
 - Michael Avissar<sup>&#42;</sup>, **Shanghong Xie**<sup>&#42;</sup>, Blair Vail, Javier Lopez Calderon, Yuanjia Wang, Daniel Javitt (2018). [Meta-analysis of Mismatch Negativity to Simple versus Complex Deviants in Schizophrenia.](https://www.sciencedirect.com/science/article/pii/S0920996417304103) _Schizophrenia Research_ 19, 25-34.  (*: Joint first author, equal contribution)
 <br/>
