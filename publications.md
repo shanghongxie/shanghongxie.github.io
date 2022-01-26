@@ -1,5 +1,5 @@
 - **Shanghong Xie**, Erin Mcdonnell, Yuanjia Wang (2022). [Conditional Gaussian Graphical
-Model for Estimating Personalized Disease Symptom Networks.](https://onlinelibrary.wiley.com/doi/10.1002/sim.9274) *Statistics in Medicine* 41, 543-553
+Model for Estimating Personalized Disease Symptom Networks.](https://onlinelibrary.wiley.com/doi/10.1002/sim.9274) *Statistics in Medicine* 41(3), 543-553
    * An earlier version won American Statistical Association (ASA) 2020 Mental Health Statistics Section Student Paper Award
    
 - **Shanghong Xie**, Donglin Zeng, Yuanjia Wang (2021). [Integrative Network Learning for Multi-modality
