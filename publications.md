@@ -1,4 +1,4 @@
-- COVID-19 Forecast Hub Consortium (2022). Evaluation of individual and ensemble probabilistic forecasts of COVID-19 mortality in the US. *Proceedings of the National Academy of Sciences*. In press
+- COVID-19 Forecast Hub Consortium (2022). Evaluation of Individual and Ensemble Probabilistic Forecasts of COVID-19 Mortality in the US. *Proceedings of the National Academy of Sciences*. In press
 
 - **Shanghong Xie**, Erin Mcdonnell, Yuanjia Wang (2022). [Conditional Gaussian Graphical
 Model for Estimating Personalized Disease Symptom Networks.](https://onlinelibrary.wiley.com/doi/10.1002/sim.9274) *Statistics in Medicine* 41 (3), 543-553
