@@ -1,4 +1,6 @@
-- COVID-19 Forecast Hub Consortium (2022). Evaluation of Individual and Ensemble Probabilistic Forecasts of COVID-19 Mortality in the US. *Proceedings of the National Academy of Sciences of the United States of America*. In press
+- **Xie S**, Tarpey T, Petkova E, Ogden RT (2022). Multiple Domain and Multiple Kernel Outcome-weighted Learning for Estimating Individualized Treatment Regimes. *Journal of Computational and Graphical Statistics*. Accepted
+
+- COVID-19 Forecast Hub Consortium (2022). Evaluation of Individual and Ensemble Probabilistic Forecasts of COVID-19 Mortality in the US. *Proceedings of the National Academy of Sciences of the United States of America*. Accepted
 
 - **Xie S**, Mcdonnell E, Wang Y (2022). [Conditional Gaussian Graphical
 Model for Estimating Personalized Disease Symptom Networks.](https://onlinelibrary.wiley.com/doi/10.1002/sim.9274) *Statistics in Medicine* 41 (3), 543-553.
