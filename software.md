@@ -1,6 +1,6 @@
 
 ### R package: APML0
-  - Augmented and penalized minimization method for regularized linear, logistic, and Cox models with l<sub>0</sub> penalty, flexible for l<sub>1</sub>, l<sub>2</sub>, and network type regularized regression
+  - Augmented and penalized minimization method for regularized linear, logistic, and Cox models with L<sub>0</sub> penalty, flexible for L<sub>1</sub>, L<sub>2</sub>, and network type regularized regression
   - Most intensive computation codes written in C++
   - Available on [CRAN](https://cran.r-project.org/web/packages/APML0/index.html)
   
