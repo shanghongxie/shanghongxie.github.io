@@ -1,4 +1,4 @@
-- **Xie S**, Tarpey T, Petkova E, Ogden RT (2022). Multiple Domain and Multiple Kernel Outcome-weighted Learning for Estimating Individualized Treatment Regimes. *Journal of Computational and Graphical Statistics*. DOI:10.1080/10618600.2022.2067552
+- **Xie S**, Tarpey T, Petkova E, Ogden RT (2022). Multiple Domain and Multiple Kernel Outcome-weighted Learning for Estimating Individualized Treatment Regimes. *Journal of Computational and Graphical Statistics*. DOI: 10.1080/10618600.2022.2067552
 
 - COVID-19 Forecast Hub Consortium (2022). [Evaluation of Individual and Ensemble Probabilistic Forecasts of COVID-19 Mortality in the US.](https://www.pnas.org/doi/10.1073/pnas.2113561119) *Proceedings of the National Academy of Sciences of the United States of America* 119 (15), e2113561119.
 
