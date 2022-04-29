@@ -15,6 +15,11 @@
   - Integrative network learning for multi-modality data  
   - Most intensive computation codes written in C++
   - Available on [GitHub](https://github.com/shanghongxie/INL)
+
+
+### Matlab toolbox: OWMKL
+  - Outcome Weighted Multiple Kernel Learning (OWMKL)
+  - Available on [GitHub](https://github.com/shanghongxie/OWMKL)
 		
 <br/>
 
