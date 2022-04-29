@@ -18,7 +18,7 @@
 
 
 ### Matlab toolbox: OWMKL
-  - Outcome Weighted Multiple Kernel Learning (OWMKL)
+  - Code for implementing outcome weighted multiple kernel learning (OWMKL)
   - Available on [GitHub](https://github.com/shanghongxie/OWMKL)
 		
 <br/>
