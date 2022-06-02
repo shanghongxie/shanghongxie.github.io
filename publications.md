@@ -1,4 +1,4 @@
-- **Xie S**, Wang W, Wang Q, Wang Y, Zeng D (2022). Evaluating Effectiveness of Public Health Intervention Strategies for Mitigating COVID-19 Pandemic. *Statistics in Medicine*. DOI: 10.1002/SIM.9482. [[Slides](https://shanghongxie.github.io/Slides/COVID-NISS.pdf)]
+- **Xie S**, Wang W, Wang Q, Wang Y, Zeng D (2022). Evaluating Effectiveness of Public Health Intervention Strategies for Mitigating COVID-19 Pandemic. *Statistics in Medicine*. DOI: 10.1002/SIM.9482. [[Slides](https://github.com/shanghongxie/shanghongxie.github.io/raw/master/Slides/COVID-NESS.pdf)]]
 
 - **Xie S**, Tarpey T, Petkova E, Ogden RT (2022). [Multiple Domain and Multiple Kernel Outcome-weighted Learning for Estimating Individualized Treatment Regimes.](https://amstat.tandfonline.com/doi/full/10.1080/10618600.2022.2067552) *Journal of Computational and Graphical Statistics*. DOI: 10.1080/10618600.2022.2067552. [[Matlab toolbox](https://github.com/shanghongxie/OWMKL)]
 
