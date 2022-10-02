@@ -43,7 +43,7 @@ layout: page
 
 ## Teaching
 {% include_relative teaching.md %}
-
+<br>
 
 ## Contact
 **Email**: <br>
