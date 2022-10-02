@@ -41,6 +41,10 @@ layout: page
 {% include_relative software.md %}
 
 
+## Teaching
+{% include_relative teaching.md %}
+
+
 ## Contact
 **Email**: <br>
 sx2168@columbia.edu; xiesh@swufe.edu.cn <br>
