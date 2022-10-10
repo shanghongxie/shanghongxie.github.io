@@ -52,5 +52,5 @@ sx2168@columbia.edu; xiesh@swufe.edu.cn <br>
 **Address**: <br>
 School of Statistics <br>
            Southwestern University of Finance and Economics <br>
-	   Chengdu, Sichuan, 611130 <br>
+	   555 Liutai Ave., Wenjing dist., Chengdu, Sichuan, 611130 <br>
 	   China <br>
