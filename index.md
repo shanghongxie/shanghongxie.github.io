@@ -34,7 +34,7 @@ layout: page
 
 	
 ## Publications
-An underline&#818 is used to indicate correspondence author; An asterisk &#42; is used to indicate joint first author, equal contribution
+An <u underline> is used to indicate correspondence author; An asterisk &#42; is used to indicate joint first author, equal contribution
 
 {% include_relative publications.md %}
 <br>
