@@ -34,8 +34,10 @@ layout: page
 
 	
 ## Publications
-### Peer-Reviewed Journal Articles
 An asterisk &#42; is used to indicate correspondence author; A dagger &#8224; is used to indicate joint first author, equal contribution
+
+### Peer-Reviewed Journal Articles
+
 
 {% include_relative publications.md %}
 <br>
