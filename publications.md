@@ -18,8 +18,7 @@ Biomarker Data.](https://projecteuclid.org/journals/annals-of-applied-statistics
 - Goldman J, **Xie S**, Green D, Naini A, Mansukhani MM, Marder K (2021). [Predictive Testing for Neurodegenerative Diseases in the Age of Next-generation Sequencing.](https://onlinelibrary.wiley.com/doi/abs/10.1002/jgc4.1342) *Journal of Genetic Counseling* 30, 553-562. 
 
 
-- Wang Q, **Xie S**, Wang Y, Zeng D (2020). [Survival-Convolution Models for Predicting COVID-19 Cases and Assessing Effects of Mitigation Strategies.](https://www.frontiersin.org/articles/10.3389/fpubh.2020.00325/full) *Frontiers in Public Health* 8, 325. [[code](https://github.com/COVID19BIOSTAT/covid19_prediction)] 
-   (**Our model is used by U.S. Center of Disease Control and Prevention (CDC) for COVID-19 Ensemble Forecast [[our forecast website](https://github.com/COVID19BIOSTAT/covid19_prediction)][[CDC ensemble forecast website](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/forecasting-us.html)] **)
+- Wang Q, **Xie S**, Wang Y, Zeng D (2020). [Survival-Convolution Models for Predicting COVID-19 Cases and Assessing Effects of Mitigation Strategies.](https://www.frontiersin.org/articles/10.3389/fpubh.2020.00325/full) *Frontiers in Public Health* 8, 325. [[code](https://github.com/COVID19BIOSTAT/covid19_prediction)] (**Our model is used by U.S. Center of Disease Control and Prevention (CDC) for COVID-19 Ensemble Forecast [[our forecast website](https://github.com/COVID19BIOSTAT/covid19_prediction)][[CDC ensemble forecast website](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/forecasting-us.html)] **)
 
        
 - Li X<sup>&#42;</sup>, **Xie S**<sup>&#42;</sup>, McColgan P, Tabrizi SJ,  Scahill RI, Zeng D, Wang Y (2018). [Learning Subject-Specific Directed Acyclic Graphs with Mixed Effects Structural Equation Models from Observational Data.](https://www.frontiersin.org/articles/10.3389/fgene.2018.00430/full) _Frontiers in Genetics_ 9, 430.
