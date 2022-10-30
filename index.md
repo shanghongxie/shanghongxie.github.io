@@ -34,7 +34,7 @@ layout: page
 
 	
 ## Publications
-An asterisk &#4; is used to indicate correspondence author; A dagger &#8224; is used to indicate joint first author, equal contribution
+An asterisk &#42; is used to indicate correspondence author; A dagger &#8224; is used to indicate joint first author, equal contribution
 
 {% include_relative publications.md %}
 <br>
