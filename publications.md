@@ -7,7 +7,7 @@
 - COVID-19 Forecast Hub Consortium (2022). [The United States COVID-19 Forecast Hub Dataset.](https://www.nature.com/articles/s41597-022-01517-w) *Scientific Data* 9, 462.
 
 - **Xie S**<sup>&#42;</sup>, Mcdonnell E, Wang Y (2022). [Conditional Gaussian Graphical
-Model for Estimating Personalized Disease Symptom Networks.](https://onlinelibrary.wiley.com/doi/10.1002/sim.9274) *Statistics in Medicine* 41 (3), 543-553. (**An earlier version won American Statistical Association (ASA) Mental Health Statistics Section Student Paper Award**)
+Model for Estimating Personalized Disease Symptom Networks.](https://onlinelibrary.wiley.com/doi/10.1002/sim.9274) *Statistics in Medicine* 41 (3), 543-553. (**An earlier version won American Statistical Association (ASA) Mental Health Statistics Section Best Student Paper Award**)
    
 - **Xie S**<sup>&#42;</sup>, Zeng D, Wang Y (2021). [Integrative Network Learning for Multi-modality
 Biomarker Data.](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-15/issue-1/Integrative-network-learning-for-multimodality-biomarker-data/10.1214/20-AOAS1382.short) *Annals of Applied Statistics* 15 (1), 64-87. [[code](https://github.com/shanghongxie/INL)]
