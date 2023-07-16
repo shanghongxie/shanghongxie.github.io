@@ -44,6 +44,8 @@ An asterisk &#42; is used to indicate corresponding author; A dagger &#8224; is 
 ## Software
 {% include_relative software.md %}
 
+## Teaching
+{% include_relative teaching.md %}
 
 ## Contact
 **Email**: <br>
