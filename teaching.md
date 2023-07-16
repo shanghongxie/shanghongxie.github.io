@@ -9,7 +9,7 @@
 
 ### Massive Open Online Course (MOOC: XuetangX)
 *Co-Instructor (Graduate Course)*
-- Machine Learning    2022-2023
+- Machine Learning.    2022-2023
 
 
 ### Columbia University
