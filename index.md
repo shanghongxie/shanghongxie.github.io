@@ -30,7 +30,7 @@ Machine learning; network analysis; graphical model; precision medicine; functio
 
 	
 ## Publications and Preprints
-An asterisk &#42; is used to indicate correspondence author; A dagger &#8224; is used to indicate joint first author, equal contribution
+An asterisk &#42; is used to indicate corresponding author; A dagger &#8224; is used to indicate joint first author, equal contribution
 
 ### Peer-Reviewed Journal Articles
 
