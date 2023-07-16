@@ -28,7 +28,7 @@ Machine learning; network analysis; graphical model; precision medicine; functio
 <br/>  <br>
 
 	
-## Publications and Preprints
+## Publications
 An asterisk &#42; is used to indicate corresponding author; A dagger &#8224; is used to indicate joint first author, equal contribution
 
 ### Peer-Reviewed Journal Articles
