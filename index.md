@@ -10,7 +10,7 @@ layout: page
 <div class="row">
 	<div class="col-md-8">
 	I am an Assistant Professor in the School of Statistics at the <a href = "https://e.swufe.edu.cn/"> Southwestern University of Finance and Economics</a>. I received my Ph.D. in <a href = "https://www.publichealth.columbia.edu/academics/departments/biostatistics"> Biostatistics</a> from <a href = "https://www.columbia.edu/"> Columbia University</a> in 2019 and was a postdoctoral research scientist at <a href = "https://www.columbia.edu/"> Columbia University</a> from 2019 to 2021. <br/><br/>
-        My current research focuses on developing network analysis methods and graphical models to learn biomarker networks. I am also interested in precision medicine and functional data analysis.
+        My methodological research interests lie in the broad area of machine learning, network analysis, precision medicine, functional data analysis, causal inference, mediation analysis with genetic and neu- roimaging biomarkers, and variable selection, with applications to medical and public health fields. My collaborative research experiences include clinical trial designs and performing a variety of statistical analyses such as meta-analysis, longitudinal analysis, and also neuroimaging studies.
 	</div>
       <div class="col-md-4"><a class="thumb" href="#">
 		<img src="assets/img/bio-photo.JPG" alt="Shanghong Xie" class="center" width="180" height="245"/></a>
@@ -24,35 +24,30 @@ layout: page
 <br/>
 
 ## Research Interests
-  * Machine learning
-  * Network analysis, Graphical model
-  * Precision medicine
-  * Functional data analysis
-  * Neuroimaging, Biomarker
+Machine learning; network analysis; graphical model; precision medicine; functional data analysis; causal inference; mediation analysis; variable selection; high dimensional analysis; neuroimaging; biomarker; neurological and psychiatric diseases
 <br/>  <br>
 
 
 	
-## Publications
+## Publications and Preprints
 An asterisk &#42; is used to indicate correspondence author; A dagger &#8224; is used to indicate joint first author, equal contribution
 
 ### Peer-Reviewed Journal Articles
 
-
 {% include_relative publications.md %}
+
+### Under Revision
+
+{% include_relative preprint.md %}
 <br>
 
 ## Software
 {% include_relative software.md %}
 
 
-## Teaching
-{% include_relative teaching.md %}
-<br>
-
 ## Contact
 **Email**: <br>
-sx2168@columbia.edu; xiesh@swufe.edu.cn <br>
+shanghongxie@gmail.com <br>
 
 **Address**: <br>
 School of Statistics <br>
