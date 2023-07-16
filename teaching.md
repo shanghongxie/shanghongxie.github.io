@@ -16,8 +16,3 @@
 *Co-Instructor (Graduate Course)*
 - Statistical Collaboration for Interdisciplinary Research. Spring 2018
 
-*Teaching Assistant (Graduate Course)*
-- Randomized Clinical Trial II.  Fall 2016
-- Generalized Linear Models.    Fall 2016
-- Design of Medical Experiments. Spring 2016
-- Analysis of Longitudinal Data. Fall 2015
