@@ -35,9 +35,6 @@ An asterisk &#42; is used to indicate corresponding author; A dagger &#8224; is 
 
 {% include_relative publications.md %}
 
-### Under Revision
-
-{% include_relative preprint.md %}
 <br>
 
 ## Software
