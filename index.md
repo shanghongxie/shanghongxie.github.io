@@ -24,7 +24,13 @@ layout: page
 <br/>
 
 ## Research Interests
-Machine learning; network analysis; graphical model; precision medicine; functional data analysis; causal inference; mediation analysis; variable selection; high dimensional analysis; neuroimaging; biomarker; neurological and psychiatric diseases
+- Machine learning
+- Network analysis; graphical model
+- Precision medicine
+- Functional data analysis
+- Causal inference
+- Neuroimaging; biomarker
+- Neurological and psychiatric diseases; mental health
 <br/>  <br>
 
 	
