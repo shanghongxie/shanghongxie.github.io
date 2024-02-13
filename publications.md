@@ -1,3 +1,5 @@
+- **Xie S**<sup>&#42;</sup>, Ogden RT (2024). [Functional Support Vector Machine.] *Biostatistics* In Press
+  
 - **Xie S**<sup>&#42;</sup>, Tarpey T, Petkova E, Ogden RT (2022). [Multiple Domain and Multiple Kernel Outcome-weighted Learning for Estimating Individualized Treatment Regimes.](https://amstat.tandfonline.com/doi/full/10.1080/10618600.2022.2067552) *Journal of Computational and Graphical Statistics* 31 (4), 1375-1383. [[Matlab toolbox](https://github.com/shanghongxie/OWMKL)]
 
 - **Xie S**<sup>&#42;</sup>, Wang W, Wang Q, Wang Y, Zeng D (2022). [Evaluating Effectiveness of Public Health Intervention Strategies for Mitigating COVID-19 Pandemic.](https://onlinelibrary.wiley.com/doi/10.1002/sim.9482) *Statistics in Medicine* 41 (9), 3820-3836. [[Slides](https://shanghongxie.github.io/folder/COVID-NESS.pdf)]
