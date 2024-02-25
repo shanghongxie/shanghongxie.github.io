@@ -1,4 +1,4 @@
-- **Xie S**<sup>&#42;</sup>, Ogden RT (2024). Functional Support Vector Machine. *Biostatistics*. In Press
+- **Xie S**<sup>&#42;</sup>, Ogden RT (2024). Functional Support Vector Machine. *Biostatistics*. In Press.
   
 - **Xie S**<sup>&#42;</sup>, Tarpey T, Petkova E, Ogden RT (2022). [Multiple Domain and Multiple Kernel Outcome-weighted Learning for Estimating Individualized Treatment Regimes.](https://amstat.tandfonline.com/doi/full/10.1080/10618600.2022.2067552) *Journal of Computational and Graphical Statistics* 31 (4), 1375-1383. [[Matlab toolbox](https://github.com/shanghongxie/OWMKL)]
 
