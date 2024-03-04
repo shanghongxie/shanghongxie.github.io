@@ -19,10 +19,10 @@ navbar-links:
 #  Software: "index #software"
 #  Teaching: "index #teaching"
  # Contact: "index #contact"
-  Publications: "https://shanghongxie.github.io/publications.md"
-  Software: "https://shanghongxie.github.io/softward.md"
-  Teaching: "https://shanghongxie.github.io/teaching.md"
-  Contact: "https://shanghongxie.github.io/contact.md"
+  Publications: "https://shanghongxie.github.io/publications"
+  Software: "https://shanghongxie.github.io/softward"
+  Teaching: "https://shanghongxie.github.io/teaching"
+  Contact: "https://shanghongxie.github.io/contact"
  
  # Author's home: "https://deanattali.com"
 
