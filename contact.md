@@ -1,4 +1,7 @@
-## Contact
+---
+layout: page
+title: Contact
+---
 
 Email: <br>
 shanghongxie@gmail.com <br>
