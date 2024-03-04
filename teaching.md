@@ -1,4 +1,7 @@
-## Teaching
+---
+layout: page
+title: Teaching
+---
 ### Southwestern University of Finance and Economics
 *Instructor*
 
