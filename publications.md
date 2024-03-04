@@ -1,3 +1,8 @@
+---
+layout: page
+title: Publications
+---
+
 ## Peer-Reviewed Journal Articles
 
 - **Xie S**<sup>&#42;</sup>, Ogden RT (2024). Functional Support Vector Machine. *Biostatistics*. In Press.
