@@ -14,11 +14,15 @@ author: Shanghong Xie
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Home: "https://shanghongxie.github.io/"
-  Publications: "index #publications"
-  Software: "index #software"
-  Teaching: "index #teaching"
-  Contact: "index #contact"
+  Home: "https://shanghongxie.github.io/home"
+#  Publications: "index #publications"
+#  Software: "index #software"
+#  Teaching: "index #teaching"
+ # Contact: "index #contact"
+  Publications: "https://shanghongxie.github.io/Publications"
+  Software: "https://shanghongxie.github.io/Software"
+  Teaching: "https://shanghongxie.github.io/Teaching"
+  Contact: "https://shanghongxie.github.io/Contact"
  
  # Author's home: "https://deanattali.com"
 
