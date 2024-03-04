@@ -1,3 +1,4 @@
+## Teaching
 ### Southwestern University of Finance and Economics
 *Instructor*
 
@@ -6,7 +7,7 @@
 
 **Graduate Course** 
 - An Introduction to Machine Learning. Fall 2023
-- Reading & Writing Scientific Articles: Advanced Topics in Machine Learning. Spring 2023, Spring 2022
+- Reading & Writing Scientific Articles: Advanced Topics in Machine Learning. Spring 2024, Spring 2023, Spring 2022
 
 
 
