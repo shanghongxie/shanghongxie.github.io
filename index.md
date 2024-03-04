@@ -25,32 +25,5 @@ layout: page
 
 ## Research Interests
 Machine learning; network analysis; graphical model; precision medicine; functional data analysis; causal inference; neuroimaging; biomarker; neurological and psychiatric diseases; mental health
-<br/>  <br>
 
-	
-## Publications
-An asterisk &#42; is used to indicate corresponding author; A dagger &#8224; is used to indicate joint first author, equal contribution
 
-### Peer-Reviewed Journal Articles
-
-{% include_relative publications.md %}
-
-<br>
-
-## Software
-{% include_relative software.md %}
-
-## Teaching
-{% include_relative teaching.md %}
-
-<br>
-
-## Contact
-**Email**: <br>
-shanghongxie@gmail.com <br>
-
-**Address**: <br>
-School of Statistics <br>
-           Southwestern University of Finance and Economics <br>
-	   555 Liutai Ave., Wenjing Dist., Chengdu, Sichuan, 611130 <br>
-	   China <br>
