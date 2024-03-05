@@ -2,6 +2,7 @@
 layout: page
 title: Publications
 ---
+An asterisk &#42; is used to indicate corresponding author; A dagger &#8224; is used to indicate joint first author, equal contribution
 
 ## Peer-Reviewed Journal Articles
 
