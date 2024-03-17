@@ -24,6 +24,10 @@ title: Software
 ### Matlab toolbox: OWMKL
   - Code for implementing outcome weighted multiple kernel learning (OWMKL)
   - Available on [GitHub](https://github.com/shanghongxie/OWMKL)
+
+### R package: FSVM
+ - Functional support vector machine for classification and regression problems
+ - Available on [GitHub]([https://github.com/shanghongxie/FSVM)
 		
 <br/>
 
