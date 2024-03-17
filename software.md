@@ -27,7 +27,7 @@ title: Software
 
 ### R package: FSVM
  - Functional support vector machine for classification and regression problems
- - Available on [GitHub]([https://github.com/shanghongxie/FSVM)
+ - Available on [GitHub](https://github.com/shanghongxie/FSVM)
 		
 <br/>
 
