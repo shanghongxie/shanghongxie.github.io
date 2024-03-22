@@ -28,7 +28,7 @@ layout: page
 <br/>
 
 ## Research Interests
-Machine learning; network analysis; graphical model; precision medicine; functional data analysis; causal inference; neuroimaging; biomarker; neurological and psychiatric diseases; mental health <br/><br/>
+Machine learning; network analysis; graphical model; precision medicine; functional data analysis; causal inference; neuroimaging (e.g., sMRI, DTI, fMRI, EEG); biomarker; neurological and psychiatric diseases; mental health <br/><br/>
 
  Currently, my work primarily focuses on learning static and dynamic biomarker networks (e.g., brain networks, disease symptom networks, omics networks). The aim is to take a systemic view of multiple biomarkers to investigate the etiology and progression of diseases, develop novel features for early disease detection, and conduct integrative data  analysis. <br/><br/>
 	I am also interested in precision medicine and functional data, where I estimate individualized treatment rules that are tailored based on subject-specific features and integrate functional data analysis with machine learning techniques.
