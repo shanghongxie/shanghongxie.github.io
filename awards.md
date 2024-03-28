@@ -1,4 +1,1 @@
-- American Statistical Association (ASA) Mental Health Statistics Section Best Student Paper Award,  2020
-- International Conference on Health Policy Statistics (ICHPS) Student Travel Award,  2018
-- NYC Datathon (Data Science Competition) 1st Place Winning Team,  2017
-- Columbia University Fellowship, 2014-2017
+
