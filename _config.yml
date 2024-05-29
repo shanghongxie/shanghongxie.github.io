@@ -21,7 +21,7 @@ navbar-links:
  # Contact: "index #contact"
   Publications: "publications"
   Software: "software"
-  Teaching: "teaching"
+#  Teaching: "teaching"
   Contact: "contact"
  
  # Author's home: "https://deanattali.com"
