@@ -2,10 +2,10 @@
 layout: page
 title: Publications
 ---
-An asterisk &#42; is used to indicate corresponding author; An [underline](#) is used to indicate students under my supervision;  A dagger &#8224; is used to indicate joint first author, equal contribution
+An asterisk &#42; is used to indicate corresponding author; An <u>underline</u> is used to indicate students under my supervision;  A dagger &#8224; is used to indicate joint first author, equal contribution
 
 ## Peer-Reviewed Journal Articles
-- [McDonnell E](#), **Xie S**, Marder K, Cui F, Wang Y (2024). Dynamic Undirected Graphical Models for Time-Varying Clinical
+- <u>McDonnell E </u>, **Xie S**, Marder K, Cui F, Wang Y (2024). Dynamic Undirected Graphical Models for Time-Varying Clinical
 Symptom and Neuroimaging Networks. *Statistics in Medicine*. In Press. (**An earlier version won American Statistical Association (ASA) Statistics in Imaging Section Student Paper Award**)
 - **Xie S**<sup>&#42;</sup>, Zeng D, Wang Y (2024). [Identifying Temporal Pathways Using Biomarkers in the Presence of Latent Non-Gaussian Components.](https://academic.oup.com/biometrics/article-abstract/80/2/ujae033/7665265) *Biometrics* 80 (2), ujae033. [[code](https://github.com/shanghongxie/ICATemporalNetwork)]
 - **Xie S**<sup>&#42;</sup>, Ogden RT (2024). [Functional Support Vector Machine.](https://academic.oup.com/biostatistics/advance-article/doi/10.1093/biostatistics/kxae007/7627802) *Biostatistics*. In Press. [[code](https://github.com/shanghongxie/FSVM)]
