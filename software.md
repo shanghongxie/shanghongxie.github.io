@@ -28,6 +28,11 @@ title: Software
 ### R package: FSVM
  - Functional support vector machine for classification and regression problems
  - Available on [GitHub](https://github.com/shanghongxie/FSVM)
+
+### R package: ICATemporalNetwork
+ - Temporal causal network learning, adjusting for latent non-Gaussian components and separating the temporal network from the contemporaneous network
+ - Available on [GitHub](https://github.com/shanghongxie/ICATemporalNetwork)
+
 		
 <br/>
 
