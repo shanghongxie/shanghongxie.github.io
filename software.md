@@ -9,10 +9,10 @@ title: Software
   - Available on [CRAN](https://cran.r-project.org/web/packages/APML0/index.html)
   
   
-### R package: Covariate-adjusted-network
-  - Estimate covariate-adjusted networks through conditional graphical model
+### R package: Covariate-dependent-network
+  - Estimate covariate-dependent networks through conditional graphical model, in which both the mean and precision matrix depend on covariates
   - Most intensive computation codes written in C++
-  - Available on [GitHub](https://github.com/shanghongxie/Covariate-adjusted-network)
+  - Available on [GitHub](https://github.com/shanghongxie/Covariate-dependent-network)
   
   
 ### R package: INL
