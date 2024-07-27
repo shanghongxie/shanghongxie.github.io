@@ -18,7 +18,7 @@ layout: page
 		
 	</div>
       <div class="col-md-4"><a class="thumb" href="#">
-		<img src="assets/img/bio-photo.jpeg" alt="Shanghong Xie" class="center" width="190" height="245"/></a>
+		<img src="assets/img/bio-photo.jpeg" alt="Shanghong Xie" class="center" width="200" height="245"/></a>
 	      <div align="center">
 	       <my_text> Shanghong Xie </my_text> <br/>
   </div>
