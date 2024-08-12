@@ -22,7 +22,7 @@ navbar-links:
   Publications: "publications"
   Software: "software"
 #  Teaching: "teaching"
-  Contact: "contact"
+ # Contact: "contact"
  
  # Author's home: "https://deanattali.com"
 
@@ -46,7 +46,7 @@ navbar-links:
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
  # email: "sx2168@columbia.edu; xiesh@swufe.edu.cn"
-  #github: https://github.com/shanghongxie
+  github: https://github.com/shanghongxie
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
