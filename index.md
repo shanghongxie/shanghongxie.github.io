@@ -32,7 +32,15 @@ layout: page
 Machine learning; network analysis; graphical model; precision medicine; functional data analysis; causal inference; neuroimaging (e.g., sMRI, DTI, fMRI, EEG); biomarker; neurological and psychiatric diseases; mental health <br/><br/>
 
 
+## Contact Information
+Email: <br>
+SX2@mailbox.sc.edu <br>
 
+Address: <br>
+Department of Statistics <br>
+University of South Carolina <br>
+Columbia, SC, 29208 <br>
+	
 
 
 
