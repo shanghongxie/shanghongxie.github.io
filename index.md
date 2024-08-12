@@ -19,7 +19,7 @@ layout: page
 		<img src="assets/img/bio-photo.jpg" alt="Shanghong Xie" class="center"  height="245"/></a>
 	      <div align="center">
 	       <my_text> Shanghong Xie </my_text> <br/>
-	<a href = "https://sc.edu/study/colleges_schools/artsandsciences/statistics/](https://shanghongxie.github.io/folder/CV_ShanghongXie.pdf">[CV]</a><br/>
+	<a href = "https://shanghongxie.github.io/folder/CV_ShanghongXie.pdf">[CV]</a><br/>
   </div>
 	      
 </div>
