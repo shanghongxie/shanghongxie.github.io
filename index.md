@@ -9,7 +9,7 @@ layout: page
 <div class="row">&nbsp;</div>
 <div class="row">
 	<div class="col-md-8">
-	I am an Assistant Professor in the  <a href = "https://sc.edu/study/colleges_schools/artsandsciences/statistics/"> Department of Statistics</a> at the <a href = "https://sc.edu/"> University of South Carolina</a>, starting in Fall 2024. I earned  my Ph.D. in <a href = "https://www.publichealth.columbia.edu/academics/departments/biostatistics"> Biostatistics</a> from <a href = "https://www.columbia.edu/"> Columbia University</a> in 2019. <br/><br/>
+	I am an Assistant Professor in the  <a href = "https://sc.edu/study/colleges_schools/artsandsciences/statistics/"> Department of Statistics</a> at the <a href = "https://sc.edu/"> University of South Carolina</a>. I earned  my Ph.D. in <a href = "https://www.publichealth.columbia.edu/academics/departments/biostatistics"> Biostatistics</a> from <a href = "https://www.columbia.edu/"> Columbia University</a> in 2019. <br/><br/>
         My research interests lie in the broad area of machine learning, network analysis, precision medicine, functional data analysis, causal inference, mediation analysis with neuroimaging and genetic biomarkers, and variable selection. My work focuses on developing machine learning and generative models to address complex challenges in neuroscience, medicine, and public health. <br/><br/>
 
 
