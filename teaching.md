@@ -6,9 +6,9 @@ title: Teaching
 ### University of South Carolina
 *Instructor*
 
-STAT 509: Statistics for Engineers. Fall 2024
+- STAT 509: Statistics for Engineers. Fall 2024
 
-Course page: [Blackboard](https://blackboard.sc.edu/) <br/><br/>
+  Course page: [Blackboard](https://blackboard.sc.edu/) <br/><br/>
 
 
 ## Past
