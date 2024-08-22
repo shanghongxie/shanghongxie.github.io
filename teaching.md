@@ -2,7 +2,7 @@
 layout: page
 title: Teaching
 ---
-## Current
+## Current Course
 ### University of South Carolina
 *Instructor*
 
@@ -11,7 +11,7 @@ title: Teaching
   Course page: [Blackboard](https://blackboard.sc.edu/) <br/><br/>
 
 
-## Past
+## Past Courses
 ### Southwestern University of Finance and Economics
 *Instructor*
 
