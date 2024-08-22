@@ -8,7 +8,8 @@ title: Teaching
 
 STAT 509: Statistics for Engineers. Fall 2024
 
-Course page: [Blackboard](https://blackboard.sc.edu/)
+Course page: [Blackboard](https://blackboard.sc.edu/) <br/>
+
 
 ## Past
 ### Southwestern University of Finance and Economics
