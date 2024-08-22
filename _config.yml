@@ -17,7 +17,7 @@ navbar-links:
   Home: "https://shanghongxie.github.io"
 #  Publications: "index #publications"
 #  Software: "index #software"
-  Teaching: "index #teaching"
+  Teaching: "teaching"
  # Contact: "index #contact"
   Publications: "publications"
   Software: "software"
