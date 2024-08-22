@@ -2,6 +2,15 @@
 layout: page
 title: Teaching
 ---
+## Current
+### University of South Carolina
+*Instructor*
+
+STAT 509: Statistics for Engineers. Fall 2024
+
+Course page: https://blackboard.sc.edu/
+
+## Past
 ### Southwestern University of Finance and Economics
 *Instructor*
 
