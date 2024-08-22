@@ -8,7 +8,7 @@ title: Teaching
 
 STAT 509: Statistics for Engineers. Fall 2024
 
-Course page: [Blackboard](https://blackboard.sc.edu/) <br/>
+Course page: [Blackboard](https://blackboard.sc.edu/) <br/><br/>
 
 
 ## Past
