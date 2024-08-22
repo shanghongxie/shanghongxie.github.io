@@ -17,7 +17,7 @@ navbar-links:
   Home: "https://shanghongxie.github.io"
 #  Publications: "index #publications"
 #  Software: "index #software"
-#  Teaching: "index #teaching"
+  Teaching: "index #teaching"
  # Contact: "index #contact"
   Publications: "publications"
   Software: "software"
@@ -62,7 +62,7 @@ social-network-links:
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  ORCID: your ORCID ID
-#  google-scholar: your google scholar
+  google-scholar: https://scholar.google.com/citations?user=DHqikVMAAAAJ&hl=en
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
