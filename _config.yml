@@ -46,7 +46,7 @@ navbar-links:
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
  # email: "sx2168@columbia.edu; xiesh@swufe.edu.cn"
-  github: https://github.com/shanghongxie
+  github: shanghongxie
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
@@ -62,7 +62,7 @@ social-network-links:
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  ORCID: your ORCID ID
-  google-scholar: https://scholar.google.com/citations?user=DHqikVMAAAAJ&hl=en
+  google-scholar: citations?user=DHqikVMAAAAJ&hl=en
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
