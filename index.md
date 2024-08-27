@@ -15,7 +15,7 @@ layout: page
 
 		
 	</div>
-      <div class="col-md-5"><a class="thumb" href="#">
+      <div class="col-md-4"><a class="thumb" href="#">
 		<img src="assets/img/bio-photo.jpg" alt="Shanghong Xie" class="center"  height="245"/></a>
 	      <div align="center">
 	       <my_text> Shanghong Xie </my_text> <br/>
