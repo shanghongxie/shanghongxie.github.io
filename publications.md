@@ -6,7 +6,7 @@ An asterisk &#42; is used to indicate corresponding author; An <u>underline</u> 
 
 ## Peer-Reviewed Articles
 
-- Shi B, Liu Y, **Xie S**, Zhu X, Wang Y (2024). Network-Assisted Mediation Discovery with Neuroimaging Mediators.  *Machine Learning for Healthcare Conference*. Proceedings of Machine Learning Research (PMLR). In Press.
+- Shi B, Liu Y, **Xie S**, Zhu X, Wang Y (2024). Network-Assisted Mediation Discovery with High-Dimensional Neuroimaging Mediators.  *Machine Learning for Healthcare Conference*. Proceedings of Machine Learning Research (PMLR). In Press.
   
 - <u>McDonnell E </u>, **Xie S**, Marder K, Cui F, Wang Y (2024). [Dynamic Undirected Graphical Models for Time-Varying Clinical
 Symptom and Neuroimaging Networks.](https://onlinelibrary.wiley.com/doi/10.1002/sim.10143) *Statistics in Medicine*. In Press. (**An earlier version won American Statistical Association (ASA) Statistics in Imaging Section First Prize Student Paper Award**)
