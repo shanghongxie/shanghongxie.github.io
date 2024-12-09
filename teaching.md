@@ -2,7 +2,7 @@
 layout: page
 title: Teaching
 ---
-## Current Course
+## Current Courses
 ### University of South Carolina
 *Instructor*
 - **STAT 530: Applied Multivariate Statistics and Data Mining**. Spring 2025
