@@ -13,6 +13,8 @@ title: Teaching
 
   **Programming Language**: R
 
+   <br/>
+
 - STAT 509: Statistics for Engineers. Fall 2024
 
   Course page: [Blackboard](https://blackboard.sc.edu/) <br/><br/>
