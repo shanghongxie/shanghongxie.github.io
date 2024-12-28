@@ -6,14 +6,14 @@ An asterisk &#42; is used to indicate corresponding author; An <u>underline</u> 
 
 ## Peer-Reviewed Articles
 
-- Shi B, Liu Y, **Xie S**, Zhu X, Wang Y (2024). Network-Assisted Mediation Discovery with High-Dimensional Neuroimaging Mediators.  *Machine Learning for Healthcare Conference*. Proceedings of Machine Learning Research (PMLR). In Press.
+- Shi B, Liu Y, **Xie S**, Zhu X, Wang Y (2024). Network-Assisted Mediation Discovery with High-Dimensional Neuroimaging Mediators.  Machine Learning for Healthcare Conference. *Proceedings of Machine Learning Research* (PMLR) 252, 1-22.
   
 - <u>McDonnell E </u>, **Xie S**, Marder K, Cui F, Wang Y (2024). [Dynamic Undirected Graphical Models for Time-Varying Clinical
-Symptom and Neuroimaging Networks.](https://onlinelibrary.wiley.com/doi/10.1002/sim.10143) *Statistics in Medicine*. In Press. (**An earlier version won American Statistical Association (ASA) Statistics in Imaging Section First Prize Student Paper Award**)
+Symptom and Neuroimaging Networks.](https://onlinelibrary.wiley.com/doi/10.1002/sim.10143) *Statistics in Medicine* 43 (1), 4131-4147. (**An earlier version won American Statistical Association (ASA) Statistics in Imaging Section First Prize Student Paper Award**)
 
-- **Xie S**<sup>&#42;</sup>, Zeng D, Wang Y (2024). [Identifying Temporal Pathways Using Biomarkers in the Presence of Latent Non-Gaussian Components.](https://academic.oup.com/biometrics/article-abstract/80/2/ujae033/7665265) *Biometrics*. In Press. [[code](https://github.com/shanghongxie/ICATemporalNetwork)]
+- **Xie S**<sup>&#42;</sup>, Zeng D, Wang Y (2024). [Identifying Temporal Pathways Using Biomarkers in the Presence of Latent Non-Gaussian Components.](https://academic.oup.com/biometrics/article-abstract/80/2/ujae033/7665265) *Biometrics* 80 (2), ujae033. [[code](https://github.com/shanghongxie/ICATemporalNetwork)]
   
-- **Xie S**<sup>&#42;</sup>, Ogden RT (2024). [Functional Support Vector Machine.](https://academic.oup.com/biostatistics/advance-article/doi/10.1093/biostatistics/kxae007/7627802) *Biostatistics*. In Press. [[code](https://github.com/shanghongxie/FSVM)]
+- **Xie S**<sup>&#42;</sup>, Ogden RT (2024). [Functional Support Vector Machine.](https://academic.oup.com/biostatistics/advance-article/doi/10.1093/biostatistics/kxae007/7627802) *Biostatistics* 25 (4), 1178-1194. [[code](https://github.com/shanghongxie/FSVM)]
   
 - **Xie S**<sup>&#42;</sup>, Tarpey T, Petkova E, Ogden RT (2022). [Multiple Domain and Multiple Kernel Outcome-weighted Learning for Estimating Individualized Treatment Regimes.](https://amstat.tandfonline.com/doi/full/10.1080/10618600.2022.2067552) *Journal of Computational and Graphical Statistics* 31 (4), 1375-1383. [[Matlab toolbox](https://github.com/shanghongxie/OWMKL)]
 
