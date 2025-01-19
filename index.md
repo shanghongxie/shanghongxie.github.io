@@ -37,7 +37,6 @@ Biweekly meetings featuring a mix of presentations, paper discussions, and invit
 
 Open to faculty members and graduate students interested in functional data (e.g., curves, surfaces) and complex data (e.g., high-dimensional data, graphs, tensors), with applications across various domains such as neuroimaging, medicine, public health, and environmental science.
 
-More coming in Spring 2025.
 
 <br/>
 
