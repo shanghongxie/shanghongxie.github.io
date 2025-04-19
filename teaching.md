@@ -22,7 +22,3 @@ title: Teaching
 
 
 
-### Columbia University
-*Co-Instructor (Graduate Course)*
-- Statistical Collaboration for Interdisciplinary Research. Spring 2018
-
