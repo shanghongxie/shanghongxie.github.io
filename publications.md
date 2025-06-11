@@ -11,7 +11,7 @@ An asterisk &#42; is used to indicate corresponding author; An <u>underline</u> 
 - <u>McDonnell E </u>, **Xie S**, Marder K, Cui F, Wang Y (2024). [Dynamic Undirected Graphical Models for Time-Varying Clinical
 Symptom and Neuroimaging Networks.](https://onlinelibrary.wiley.com/doi/10.1002/sim.10143) *Statistics in Medicine* 43 (1), 4131-4147. (**An earlier version won American Statistical Association (ASA) Statistics in Imaging Section First Prize Student Paper Award**)
 
-- **Xie S**<sup>&#42;</sup>, Zeng D, Wang Y (2024). [Identifying Temporal Pathways Using Biomarkers in the Presence of Latent Non-Gaussian Components.](https://academic.oup.com/biometrics/article-abstract/80/2/ujae033/7665265) *Biometrics* 80 (2), ujae033. [[code](https://github.com/shanghongxie/ICATemporalNetwork)]
+- **Xie S**<sup>&#42;</sup>, Zeng D, Wang Y (2024). [Identifying Temporal Pathways Using Biomarkers in the Presence of Latent Non-Gaussian Components.](https://academic.oup.com/biometrics/article-abstract/80/2/ujae033/7665265) *Biometrics* 80 (2), ujae033. [[code](https://github.com/shanghongxie/ICATemporalNetwork)] [[Slides](https://shanghongxie.github.io/folder/ICA-Slides.pdf)]
   
 - **Xie S**<sup>&#42;</sup>, Ogden RT (2024). [Functional Support Vector Machine.](https://academic.oup.com/biostatistics/advance-article/doi/10.1093/biostatistics/kxae007/7627802) *Biostatistics* 25 (4), 1178-1194. [[code](https://github.com/shanghongxie/FSVM)]
   
