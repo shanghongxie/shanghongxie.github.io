@@ -1,3 +1,8 @@
+---
+layout: page
+title: Students
+---
+
 ## Ph.D. Students
 
 - **Sehun An**
