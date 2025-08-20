@@ -5,7 +5,7 @@ title: Teaching
 ## Current Courses
 ### University of South Carolina
 *Instructor*
-- **STAT 530: Applied Multivariate Statistics and Data Mining**. Spring 2025
+- **STAT 530: Applied Multivariate Statistics and Data Mining**. Fall, Spring 2025
 
   **Textbooks**:
    - An Introduction to Multivariate Analysis with R (2011), by Brian Everitt and Tolsten Holthorn. (available as a free (possibly only via USC computers) download at the [textbook site](https://link.springer.com/book/10.1007/978-1-4419-9650-3)).
