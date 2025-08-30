@@ -30,8 +30,6 @@ layout: page
 ## Research Interests
 Machine learning; network analysis; graphical model; precision medicine; functional data analysis; causal inference; neuroimaging (e.g., sMRI, DTI, fMRI, EEG); biomarker; neurological and psychiatric diseases; mental health <br/><br/>
 
-## Prospective Students
-I am looking for highly motivated students with a strong background in statistics and proficiency in programming (e.g., R, Python, MATLAB, or C++) to join my group. If you are a current PhD student at USC, please email me. <br/><br/>
 
 ## Functional and Complex Data Analysis (FUNCODA) Working Group
 Co-founded with <a href = "https://wuyx5.github.io/"> Yuexuan Wu</a>, <a href = "https://sc.edu/study/colleges_schools/artsandsciences/statistics/our_people/directory/consagra_william.php"> William Consagra </a>
