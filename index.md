@@ -43,7 +43,7 @@ Open to faculty members and graduate students interested in functional data (e.g
 
 ## Contact Information
 Email: <br>
-SX2@mailbox.sc.edu <br>
+sx2@mailbox.sc.edu <br>
 
 Address: <br>
 Department of Statistics <br>
