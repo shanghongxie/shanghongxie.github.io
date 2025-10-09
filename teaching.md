@@ -2,9 +2,13 @@
 layout: page
 title: Teaching
 ---
+## Future Course
+- **STAT 531 [CSCE 588]: Advanced Machine Learning with Implementation**. Spring 2026
+
+  **Programming Language**: Python
+
 ## Current Courses
 ### University of South Carolina
-*Instructor*
 - **STAT 530: Applied Multivariate Statistics and Data Mining**. Fall, Spring 2025
 
   **Textbooks**:
