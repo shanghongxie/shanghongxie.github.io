@@ -7,6 +7,8 @@ title: Teaching
 
   **Programming Language**: Python
 
+    <br/>
+
 ## Current Courses
 - **STAT 530: Applied Multivariate Statistics and Data Mining**. Fall, Spring 2025
 
