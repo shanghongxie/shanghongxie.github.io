@@ -8,7 +8,6 @@ title: Teaching
   **Programming Language**: Python
 
 ## Current Courses
-### University of South Carolina
 - **STAT 530: Applied Multivariate Statistics and Data Mining**. Fall, Spring 2025
 
   **Textbooks**:
