@@ -2,14 +2,17 @@
 layout: page
 title: Teaching
 ---
-## Future Course
+## Current Course
 - **STAT 531 [CSCE 588]: Advanced Machine Learning with Implementation**. Spring 2026
 
   **Programming Language**: Python
+  
+  **Recommended Textbook**:
+  - An Introduction to Statistical Learning with Applications in Python (2023), by James, Witten, Hastie, and Tibshirani (available as free download at the [ISL textbook site](https://www.statlearning.com/))
 
     <br/>
 
-## Current Courses
+## Past Courses
 - **STAT 530: Applied Multivariate Statistics and Data Mining**. Fall, Spring 2025
 
   **Textbooks**:
