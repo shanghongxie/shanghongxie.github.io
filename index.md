@@ -32,6 +32,10 @@ Machine learning; network analysis; graphical model; precision medicine; functio
 
 <br/>
 
+## <a href = "https://shanghongxie.github.io/funcoda/"> FUNCODA Working Group</a> 
+
+<br/>
+
 ## Contact Information
 Email: <br>
 sx2@mailbox.sc.edu <br>
