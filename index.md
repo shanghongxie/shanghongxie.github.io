@@ -1,10 +1,7 @@
 ---
 
 layout: page
-title: Shanghong Xie
 ---
-<h1 class="visually-hidden">Shanghong Xie</h1>
-
 <div class="container">
 <div class="row">&nbsp;</div>
 <div class="row">
