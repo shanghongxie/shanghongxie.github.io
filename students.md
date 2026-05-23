@@ -5,7 +5,7 @@ title: Students
 
 ## Ph.D. Students
 
-- **Sehun An**
+- [**Sehun An**](https://sc.edu/study/colleges_schools/artsandsciences/statistics/our_people/directory/student_an_sehun.php)
   
     Ph.D. student in Statistics <br/>
     Co-advise with Ting Fung Ma
@@ -13,7 +13,7 @@ title: Students
     2025 - Present
 
 
-- **Cenxiao Gao**
+- [**Cenxiao Gao**](https://sc.edu/study/colleges_schools/artsandsciences/statistics/our_people/directory/student_gao_cenxiao.php)
   
     Ph.D. student in Statistics<br/>
     Co-advise with Edsel Pena
