@@ -23,7 +23,6 @@ title: Teaching
 - **STAT 530: Applied Multivariate Statistics and Data Mining**. Fall, Spring 2025
 
   **Programming Language**: R
-
    <br/>
 
 - **STAT 509: Statistics for Engineers**. Fall 2024
