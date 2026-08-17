@@ -3,21 +3,24 @@ layout: page
 title: Teaching
 ---
 ## Current Course
+- **STAT 530: Applied Multivariate Statistics and Data Mining**. Fall 2026
+
+  **Textbooks**:
+   - An Introduction to Multivariate Analysis with R (2011), by Brian Everitt and Tolsten Holthorn. (available as a free (possibly only via USC computers) download at the [textbook site](https://link.springer.com/book/10.1007/978-1-4419-9650-3)).
+   - An Introduction to Statistical Learning with Applications in R (2013), by James, Witten, Hastie, and Tibshirani (available as free download at the [ISL textbook site](https://www.statlearning.com/)).
+   - 
+    <br/>
+
+## Past Courses
 - **STAT 531 [CSCE 588]: Advanced Machine Learning with Implementation**. Spring 2026
 
   **Programming Language**: Python
   
   **Recommended Textbook**:
   - An Introduction to Statistical Learning with Applications in Python (2023), by James, Witten, Hastie, and Tibshirani (available as free download at the [ISL textbook site](https://www.statlearning.com/))
-
-    <br/>
-
-## Past Courses
+ <br/>
+ 
 - **STAT 530: Applied Multivariate Statistics and Data Mining**. Fall, Spring 2025
-
-  **Textbooks**:
-   - An Introduction to Multivariate Analysis with R (2011), by Brian Everitt and Tolsten Holthorn. (available as a free (possibly only via USC computers) download at the [textbook site](https://link.springer.com/book/10.1007/978-1-4419-9650-3)).
-   - An Introduction to Statistical Learning with Applications in R (2013), by James, Witten, Hastie, and Tibshirani (available as free download at the [ISL textbook site](https://www.statlearning.com/)).
 
   **Programming Language**: R
 
